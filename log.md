@@ -25,4 +25,13 @@
 
 **Thoughts:**  I've learned the importance of sorting things before doing something else with them. My code kept failing the test, I had to check the solution and saw that the problem was not sorting the pair before checking for similarity. I've also practiced pandas on datacamp and completed the tutorial [first-steps to machine learning](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/).
 
-**Link to work:** [Pybites-01](Pybites-03/tags.py)
+**Link to work:** [Pybites-03](Pybites-03/tags.py)
+
+### Day 4: January 7, 2018 (Pybites challenge 4)
+##### Twitter data analysis Part 1: Getting Data, Course on AI, 
+
+**Today's Progress**: Finished Pybites challenge 04, started the course Artificial Intelligence A-Z™: Learn How To Build An AI
+
+**Thoughts:**  Finished pybites challenge 04 - had issues with the tests so had to modify them, it might be an issue so submitted a PR to fix this. Started new course on how to build AI, have a lot of papers to read but the course seems pretty amazing!
+
+**Link to work:** [Pybites-04](/day-4/Pybites-04/usertweets.py)
