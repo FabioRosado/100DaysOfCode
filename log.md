@@ -35,3 +35,10 @@
 **Thoughts:**  Finished pybites challenge 04 - had issues with the tests so had to modify them, it might be an issue so submitted a PR to fix this. Started new course on how to build AI, have a lot of papers to read but the course seems pretty amazing!
 
 **Link to work:** [Pybites-04](/day-4/Pybites-04/usertweets.py)
+
+### Day 5: January 8, 2018 (Studying)
+##### Twitter data analysis Part 1: Getting Data, Course on AI, 
+
+**Today's Progress**: Started working on pybites challenge 5. Read chapter 3 of Mastering Python and studied two papers: _Reinforcement Learning I: Introduction_ and  _Markov Decision Processes: Concepts and Algorithms_
+
+**Thoughts:**  Had a long day at work so the little down time I had I used to read about python and prepare my knowledge for the Course: Build an AI.
