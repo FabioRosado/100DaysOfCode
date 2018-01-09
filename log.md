@@ -42,3 +42,10 @@
 **Today's Progress**: Started working on pybites challenge 5. Read chapter 3 of Mastering Python and studied two papers: _Reinforcement Learning I: Introduction_ and  _Markov Decision Processes: Concepts and Algorithms_
 
 **Thoughts:**  Had a long day at work so the little down time I had I used to read about python and prepare my knowledge for the Course: Build an AI.
+
+### Day 6: January 9, 2018 (Fixed issues in PRs)
+##### Fixed issues in PRs raised by me on opsdroid and uplink
+
+**Today's Progress**: Fixed almost everything on the PR in opsdroid. Read about the `@property` decorator.
+
+**Thoughts:**  Had another long day so I had about 2 hours free after work. Spend that time working on pull requests and reading about the `@property` decorator in order to use it in one of the PRs.
