@@ -49,3 +49,11 @@
 **Today's Progress**: Fixed almost everything on the PR in opsdroid. Read about the `@property` decorator.
 
 **Thoughts:**  Had another long day so I had about 2 hours free after work. Spend that time working on pull requests and reading about the `@property` decorator in order to use it in one of the PRs.
+
+
+### Day 7: January 10, 2018 (Study and Opsdroid)
+##### Fixed issues in a PR (opsdroid), studied a paper
+
+**Today's Progress**: Implemented the property  decorator to `opsdroid.connector`, worked out kinks in the PR and created a rudimentary test for new methods on the Messenger class. Studied the paper _Markov Decision Processes: Concepts and Algorithms_
+
+**Thoughts:**  Unit testing still baffles me a bit. It usually takes a long while for me to think and implement basic testing cases. I've read the paper on Markov Decision Processes and studied Bellman Equations.
