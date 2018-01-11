@@ -57,3 +57,10 @@
 **Today's Progress**: Implemented the property  decorator to `opsdroid.connector`, worked out kinks in the PR and created a rudimentary test for new methods on the Messenger class. Studied the paper _Markov Decision Processes: Concepts and Algorithms_
 
 **Thoughts:**  Unit testing still baffles me a bit. It usually takes a long while for me to think and implement basic testing cases. I've read the paper on Markov Decision Processes and studied Bellman Equations.
+
+### Day 8: January 11, 2018 (Building an AI Course, NLTK)
+##### Did one lesson on Building an AI, started playing with NLTK
+
+**Today's Progress**: Updated documentation for Opsdroid's Connectors, finished reading the paper _Markov Decision Processes_ and did one lesson on Building an AI. Played around with the NLTK module
+
+**Thoughts:**  I've enjoyed playing around with NLTK and I'm eager to do more stuff with it. I'm hoping to get enough knowledge to work on Pybites challenge 5 and use tweepy and NLTK together.
