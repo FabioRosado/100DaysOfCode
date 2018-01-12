@@ -64,3 +64,10 @@
 **Today's Progress**: Updated documentation for Opsdroid's Connectors, finished reading the paper _Markov Decision Processes_ and did one lesson on Building an AI. Played around with the NLTK module
 
 **Thoughts:**  I've enjoyed playing around with NLTK and I'm eager to do more stuff with it. I'm hoping to get enough knowledge to work on Pybites challenge 5 and use tweepy and NLTK together.
+
+### Day 9: January 11, 2018 (NLTK and Book: Mastering Python)
+##### Played around with NLTK, fixed opsdroid PR, read chapter 4 of Mastering Python
+
+**Today's Progress**: Catch up with my growing list of unlisten episodes of my podcasts. Read chapter 4 of Mastering Python, played with NLTK and worked on opsdroid PR.
+
+**Thoughts:**  I spent a lot of time trying to make unit tests passing when mocking the `asyncio.sleep()` function. I've also did a lot of reading and that makes me feel that today wasn't as productive as it should been.
