@@ -65,9 +65,18 @@
 
 **Thoughts:**  I've enjoyed playing around with NLTK and I'm eager to do more stuff with it. I'm hoping to get enough knowledge to work on Pybites challenge 5 and use tweepy and NLTK together.
 
-### Day 9: January 11, 2018 (NLTK and Book: Mastering Python)
+### Day 9: January 12, 2018 (NLTK and Book: Mastering Python)
 ##### Played around with NLTK, fixed opsdroid PR, read chapter 4 of Mastering Python
 
 **Today's Progress**: Catch up with my growing list of unlisten episodes of my podcasts. Read chapter 4 of Mastering Python, played with NLTK and worked on opsdroid PR.
 
 **Thoughts:**  I spent a lot of time trying to make unit tests passing when mocking the `asyncio.sleep()` function. I've also did a lot of reading and that makes me feel that today wasn't as productive as it should been.
+
+### Day 10: January 13, 2018 (NLTK, opsdroid PR and new skill)
+##### Played around with NLTK again, worked on opsdroid PR, created skill-words for opsdroid
+
+**Today's Progress**:  Created a new skill for opsdroid which uses my knowledge of NLTK so far. Finished opsdroid PR that adds typing/thinking delays, tests and documentation.
+
+**Thoughts:**  Today was great, it was fun to implement NLTK with opsdroid. I've also finished working on the typing/thinking delay PR. Along with that I played with my Arduino and finished project 5 from the book that comes with the starter kit.
+
+**Link to work:** [Opsdroid Skill: words](https://github.com/opsdroid/skill-words) [Opsdroid PR - typing/thinking delay](https://github.com/opsdroid/opsdroid/pull/376)
