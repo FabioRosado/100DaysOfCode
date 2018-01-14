@@ -79,4 +79,13 @@
 
 **Thoughts:**  Today was great, it was fun to implement NLTK with opsdroid. I've also finished working on the typing/thinking delay PR. Along with that I played with my Arduino and finished project 5 from the book that comes with the starter kit.
 
-**Link to work:** [Opsdroid Skill: words](https://github.com/opsdroid/skill-words) [Opsdroid PR - typing/thinking delay](https://github.com/opsdroid/opsdroid/pull/376)
+**Link to work:** [Opsdroid Skill: words](https://github.com/opsdroid/skill-words),  [Opsdroid PR - typing/thinking delay](https://github.com/opsdroid/opsdroid/pull/376)
+
+### Day 10: January 14, 2018 (Opsdoird skill - words)
+##### Updated documentation and the translation function of Opsdroid skill - words
+
+**Today's Progress**:  Updated the translation function to accept translations from one language into another(before it would only translate from english), updated the documentation related to this function.
+
+**Thoughts:**  Today's work was a very quick one and the rest of the day was spend with my fiance. Will do some reading of the book Mastering Python in order to catch up with my hour of code.
+
+**Link to work:** [Opsdroid Skill: words](https://github.com/opsdroid/skill-words)
