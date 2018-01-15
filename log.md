@@ -89,3 +89,12 @@
 **Thoughts:**  Today's work was a very quick one and the rest of the day was spend with my fiance. Will do some reading of the book Mastering Python in order to catch up with my hour of code.
 
 **Link to work:** [Opsdroid Skill: words](https://github.com/opsdroid/skill-words)
+
+### Day 11: January 14, 2018 (PR in Opsdroid, Pybites, NLTK)
+##### Created new PR in Opsdroid, read more about the NLTK library,
+
+**Today's Progress**:  Attempted fixing an issue in Opsdroid, read more about NLTK and watched a bunch of videos on it. Started working on challenge 5 of Pybites.
+
+**Thoughts:**  I've updated my blog by adding the project - Opsdroid skill words. I've been watching and reading stuff about NLTK and started writing tests for the pybites challenge 5.
+
+**Link to work:** [Blog post](https://fabiorosado.github.io/projects/opsdroid-skill-words/), [Pybites challenge 5](https://pybit.es/codechallenge05.html)
