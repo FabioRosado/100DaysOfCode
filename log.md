@@ -90,7 +90,7 @@
 
 **Link to work:** [Opsdroid Skill: words](https://github.com/opsdroid/skill-words)
 
-### Day 11: January 14, 2018 (PR in Opsdroid, Pybites, NLTK)
+### Day 11: January 15, 2018 (PR in Opsdroid, Pybites, NLTK)
 ##### Created new PR in Opsdroid, read more about the NLTK library,
 
 **Today's Progress**:  Attempted fixing an issue in Opsdroid, read more about NLTK and watched a bunch of videos on it. Started working on challenge 5 of Pybites.
@@ -98,3 +98,10 @@
 **Thoughts:**  I've updated my blog by adding the project - Opsdroid skill words. I've been watching and reading stuff about NLTK and started writing tests for the pybites challenge 5.
 
 **Link to work:** [Blog post](https://fabiorosado.github.io/projects/opsdroid-skill-words/), [Pybites challenge 5](https://pybit.es/codechallenge05.html)
+
+### Day 12: January 16, 2018 (Unit Tests)
+##### Tests for Opsdroid PR
+
+**Today's Progress**:  Spent the whole day trying to find a way to test a try/except block in Opsdroid. Worked a bit on Pybites challenge 05
+
+**Thoughts:**  Today has been somewhat frustrating as every new attempt at passing the tests failed.  I've also struggled with Pybites challenge 05.
