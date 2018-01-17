@@ -81,7 +81,7 @@
 
 **Link to work:** [Opsdroid Skill: words](https://github.com/opsdroid/skill-words),  [Opsdroid PR - typing/thinking delay](https://github.com/opsdroid/opsdroid/pull/376)
 
-### Day 10: January 14, 2018 (Opsdoird skill - words)
+### Day 11: January 14, 2018 (Opsdoird skill - words)
 ##### Updated documentation and the translation function of Opsdroid skill - words
 
 **Today's Progress**:  Updated the translation function to accept translations from one language into another(before it would only translate from english), updated the documentation related to this function.
@@ -90,7 +90,7 @@
 
 **Link to work:** [Opsdroid Skill: words](https://github.com/opsdroid/skill-words)
 
-### Day 11: January 15, 2018 (PR in Opsdroid, Pybites, NLTK)
+### Day 12: January 15, 2018 (PR in Opsdroid, Pybites, NLTK)
 ##### Created new PR in Opsdroid, read more about the NLTK library,
 
 **Today's Progress**:  Attempted fixing an issue in Opsdroid, read more about NLTK and watched a bunch of videos on it. Started working on challenge 5 of Pybites.
@@ -99,9 +99,17 @@
 
 **Link to work:** [Blog post](https://fabiorosado.github.io/projects/opsdroid-skill-words/), [Pybites challenge 5](https://pybit.es/codechallenge05.html)
 
-### Day 12: January 16, 2018 (Unit Tests)
+### Day 13: January 16, 2018 (Unit Tests)
 ##### Tests for Opsdroid PR
 
 **Today's Progress**:  Spent the whole day trying to find a way to test a try/except block in Opsdroid. Worked a bit on Pybites challenge 05
 
 **Thoughts:**  Today has been somewhat frustrating as every new attempt at passing the tests failed.  I've also struggled with Pybites challenge 05.
+
+### Day 14: January 17, 2018 (Pybites, NLTK)
+##### Finish Pybites 05 challenge, bites 5 and 8, NLTK
+
+**Today's Progress**:  Spent a few hours working on Pybites challenge 05, got some reasonable results compared to the solutions, studied more about NLTK.
+**Thoughts:**  I'm not 100% happy with the code that I came up with Pybites challenge, the code takes a while to run and it doesn't look very good. 
+Although, I'm happy that I got a close enough result compared to the solution and that all I used was mostly the NLTK library.
+**Link to work:** [Pybites Challenge 05](day-14/Pybites-05/tweets.py)
