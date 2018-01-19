@@ -114,9 +114,15 @@
 Although, I'm happy that I got a close enough result compared to the solution and that all I used was mostly the NLTK library.
 **Link to work:** [Pybites Challenge 05](day-14/Pybites-05/tweets.py)
 
-### Day 14: January 17, 2018 (Reading, Building an AI, Challenges)
+### Day 15: January 18, 2018 (Reading, Building an AI, Challenges)
 ##### Read more of chapter 5 of Mastering Python. Watched lessons on Building an AI
 
 **Today's Progress**:  I did a lot of reading and watching explanations on Building an AI. Since I didn't do any coding, I've completed bite 2 and one codewars challenge (which was too easy).
 **Thoughts:**   I've read a bit more about using NLTK in sentiment Analysis for Pybites challenge 7. Today I have almost finished the introductory chapter of Building an AI, can't wait to get into code!
 **Link to work:** [Challenge - Bite 2](day-15/bite-2.py), [Challenge - CodeWars](day-15/codewars-count-characters.py)
+
+### Day 16: January 19, 2018 (NLTK, Pybites, Building an AI)
+##### Read about sentiment analysis in NLTK, finished intro to Building an AI
+
+**Today's Progress**:  Spent a lot of time figuring out how to do sentiment analysis in NLTK. Finished intro to Building an AI and worked on Pybites challenge 07.
+**Thoughts:**   It was a bit frustrating learning about sentiment analysis since I was unable to get good results. Started working on Pybites challenge 07 but I'm not happy with what I came up with.
