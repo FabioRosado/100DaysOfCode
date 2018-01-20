@@ -126,3 +126,11 @@ Although, I'm happy that I got a close enough result compared to the solution an
 
 **Today's Progress**:  Spent a lot of time figuring out how to do sentiment analysis in NLTK. Finished intro to Building an AI and worked on Pybites challenge 07.
 **Thoughts:**   It was a bit frustrating learning about sentiment analysis since I was unable to get good results. Started working on Pybites challenge 07 but I'm not happy with what I came up with.
+
+### Day 17: January 20, 2018 (NLTK, Building an AI)
+##### Played with the sentiment analysis classifier,watched a few lessons on Building an AI
+
+**Today's Progress**:  Didn't do much today because of work and family time. Was able to do a few lessons on the course building and ai, read a bit from the book Mastering Python 
+**Thoughts:**   I'm trying to play around with the classifier to get a good accuracy rating on the sentiment analysis so I could use it on the Pybites challange 7. 
+The classifier was returning only a negative, tried NLTK Vader's SentimentIntensityAnalyzer, but was returning mostly neutral sentiments. Will need to search more on this matter 
+to find a way to implement a good sentiment analyser.
