@@ -110,27 +110,45 @@
 ##### Finish Pybites 05 challenge, bites 5 and 8, NLTK
 
 **Today's Progress**:  Spent a few hours working on Pybites challenge 05, got some reasonable results compared to the solutions, studied more about NLTK.
+
 **Thoughts:**  I'm not 100% happy with the code that I came up with Pybites challenge, the code takes a while to run and it doesn't look very good. 
 Although, I'm happy that I got a close enough result compared to the solution and that all I used was mostly the NLTK library.
+
 **Link to work:** [Pybites Challenge 05](day-14/Pybites-05/tweets.py)
 
 ### Day 15: January 18, 2018 (Reading, Building an AI, Challenges)
 ##### Read more of chapter 5 of Mastering Python. Watched lessons on Building an AI
 
 **Today's Progress**:  I did a lot of reading and watching explanations on Building an AI. Since I didn't do any coding, I've completed bite 2 and one codewars challenge (which was too easy).
+
 **Thoughts:**   I've read a bit more about using NLTK in sentiment Analysis for Pybites challenge 7. Today I have almost finished the introductory chapter of Building an AI, can't wait to get into code!
+
 **Link to work:** [Challenge - Bite 2](day-15/bite-2.py), [Challenge - CodeWars](day-15/codewars-count-characters.py)
 
 ### Day 16: January 19, 2018 (NLTK, Pybites, Building an AI)
 ##### Read about sentiment analysis in NLTK, finished intro to Building an AI
 
 **Today's Progress**:  Spent a lot of time figuring out how to do sentiment analysis in NLTK. Finished intro to Building an AI and worked on Pybites challenge 07.
+
 **Thoughts:**   It was a bit frustrating learning about sentiment analysis since I was unable to get good results. Started working on Pybites challenge 07 but I'm not happy with what I came up with.
 
 ### Day 17: January 20, 2018 (NLTK, Building an AI)
 ##### Played with the sentiment analysis classifier,watched a few lessons on Building an AI
 
 **Today's Progress**:  Didn't do much today because of work and family time. Was able to do a few lessons on the course building and ai, read a bit from the book Mastering Python 
+
 **Thoughts:**   I'm trying to play around with the classifier to get a good accuracy rating on the sentiment analysis so I could use it on the Pybites challange 7. 
 The classifier was returning only a negative, tried NLTK Vader's SentimentIntensityAnalyzer, but was returning mostly neutral sentiments. Will need to search more on this matter 
 to find a way to implement a good sentiment analyser.
+
+### Day 18: January 21, 2018 (Pybites challenge 07, Mastering Python)
+##### Pybites challenge 07 - 99% done, Book: Mastering Python
+
+**Today's Progress**:  Finished most of Pybites challenge 07, just need to tweak things a bit to tidy up tweets better. Read about decorators and class methods(property, staticmethod, etc).
+
+**Thoughts:**  Overall I'm quite happy with what I came up with on this 7th challenge. It's not as short as the one in the solutions, but I decided not to use the textblob library, so had to kind off reinvent to wheel,
+comparing to the solutions I'm getting a 66% of positive feedback on the movie "The Darkest Hour", compared with 53% obtained from the solution - this difference is mostly due to the fact that my code doesn't classify a neutral sentiment.
+I've also learned how to prevent the classifier to keep training on ever iteration - all I had to do was to invoke that function in the class `__init__`.
+
+**Link to work:** [Pybites challenge 07](day-18/Pybites-07/sentiment.py)
+
