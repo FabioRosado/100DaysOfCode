@@ -152,3 +152,13 @@ I've also learned how to prevent the classifier to keep training on ever iterati
 
 **Link to work:** [Pybites challenge 07](day-18/Pybites-07/sentiment.py)
 
+### Day 19: January 22, 2018 (Pybites challenge 07, Tweet Scrapper, dataset)
+##### Pybites challenge, extend dataset
+
+**Today's Progress**:  Tweaked Pybites challenge 07, just need to accept terms from the terminal and it will done, searched for datasets to improve the classifier.
+
+**Thoughts:**  Got a good dataset from [Sentiment140](http://help.sentiment140.com/for-students/) to try and improve the classifier. Tried to clean the data without speeding down the classifier. 
+Created a tweet scrapper to classify tweets using TextBlob to classify tweets and save them in different files so they can be used in training the classifier.
+
+
+
