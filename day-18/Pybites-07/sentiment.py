@@ -2,13 +2,13 @@ import json
 import sys
 import tweepy
 
-
-from nltk.tokenize import TweetTokenizer
-from nltk.sentiment.util import *
-from classifier import TweetsClassifier
 from collections import Counter
+from classifier import TweetsClassifier
 from config import CONSUMER_KEY, CONSUMER_SECRET
 from config import ACCESS_TOKEN, ACCESS_SECRET
+from nltk.tokenize import TweetTokenizer
+from nltk.sentiment.util import *
+from nltk.corpus import stopwords
 
 
 class SearchTwitter:
@@ -24,6 +24,8 @@ class SearchTwitter:
         tokens = tokenizer.tokenize(text)
         tweet = [token for token in tokens
                  if not RT_USERS_PUNC.search(token)]
+        tweet = [word for word in tweet
+                 if word not in stopwords.words('english')]
         return ' '.join(tweet)
 
     def _get_tweets(self):
@@ -33,8 +35,8 @@ class SearchTwitter:
         api = tweepy.API(auth)
         search = api.search(self.term, lang='en', count=100)
 
-        print("Getting tweets that mention '{}', "
-              "this may take a while...".format(self.term))
+        print(f"Getting tweets that mention '{self.term}', "
+              f"this may take a while...")
 
         save_tweet_text = [tweet._json['text'] for tweet in search]
 
@@ -48,6 +50,12 @@ class SearchTwitter:
         clean_tweets = [self._clean_tweets(text) for text in save_tweet_text]
         print("Done. 1000 Tweets received.")
         return save_tweet_text
+
+    def _save_tweets(self):
+        file_path = f"./tweets/{self.term}.txt"
+        with open(file_path, 'w') as file:
+            for tweet in self._tweets:
+                file.write(f"'{tweet}' \n")
 
     def __len__(self):
         """Returns len of object - used to iterate over."""
@@ -68,21 +76,15 @@ def classify_term(term):
 
     count = Counter(scores)
 
-    print(count)
-
-    print("Positive: {}%".format(round(count['pos']/len(scores) * 100)))
-    print("Negative: {}%".format(round(count['neg']/len(scores) * 100)))
-
-    return
+    print(f"Positive: {round(count['pos']/len(scores) * 100)}%")
+    print(f"Negative: {round(count['neg']/len(scores) * 100)}%")
 
 
-print(classify_term("The Darkest Hour"))
 
-# if __name__ == "__main__":
-#     if len(sys.argv) < 2:
-#         print('please provide json data file')
-#         sys.exit(1)
-#     input_file = sys.argv[1]
-#     tweets = read_json(input_file)
-#     for tw in tweets:
-#         print(dict(tw)['text'])
+
+if __name__ == "__main__":
+    if len(sys.argv) < 2:
+        print('Unable to score. No term given. ')
+        sys.exit(1)
+    term = sys.argv[1]
+    score = classify_term(term)

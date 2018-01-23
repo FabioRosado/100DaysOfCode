@@ -160,5 +160,15 @@ I've also learned how to prevent the classifier to keep training on ever iterati
 **Thoughts:**  Got a good dataset from [Sentiment140](http://help.sentiment140.com/for-students/) to try and improve the classifier. Tried to clean the data without speeding down the classifier. 
 Created a tweet scrapper to classify tweets using TextBlob to classify tweets and save them in different files so they can be used in training the classifier.
 
+### Day 20: January 23, 2018 (Pybites challenge 07, Tweetnalytic, exercism challenge)
+##### Pybites challenge, Reading: Mastering Python, new project - Tweetnalytic
+
+**Today's Progress**:  Read about asyncio to try and improve run speed on the classifier. All my attempts failed so I reduced the dataset size - it didn't affect the classifier accuracy much. 
+Finally finished challenge 07. Created a new project called tweetnalytic that contains the classifier and twitter interaction with the API. Read more about decorators and finished off with an exercise from exercism.
+
+**Thoughts:**  Playing around with the twitter API was fun, started a new project to kind off merge my solutions of Pybites challenge 07 and 05. Today I had the proof that I don't understand asycio yet. 
+My attempt to turn the classifier into an asynchronous object failed, will keep on reading and experimenting until I find a way to do it properly and then use it in my code.
+
+**Link to work:** [Pybites challenge 07](day-18/Pybites-07/sentiment.py), [Tweetnalytic](https://github.com/FabioRosado/tweetnalytic), [exercism - allergies](day-20/exercism-allergies.py)
 
 
