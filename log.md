@@ -7,23 +7,23 @@
 
 **Thoughts:**  I've used list comprehensions on most of the functions. I was unable to complete this challenge today due to tiredness from work and for being awake for 17 hours.
 
-**Link to work:** [Pybites-01](Pybites-01/wordvalue.py)
+**Link to work:** [Pybites-01](day-1/Pybites-01/wordvalue.py)
 
 ### Day 2: January 5, 2018 (Pybites challenge 1, opsdroid, Book)
-##### Scrabble like game, Book: Mastering Python, PR: Opsdroid
+##### Scrabble-like game, Book: Mastering Python, PR: Opsdroid
 
 **Today's Progress**: Finished challenge 1 and 2. Read first 2 chapters of the book: Mastering Python. Submitted PR for opsdroid
 
 **Thoughts**:  Very productive day, I've finished the first two challenges of Pybites, started reading the book Mastering Python and Submitted a PR to opsdroid for a WIP - Add typing/thinking delay to opsdroid.
 
-**Link(s) to work**: [Pybites-02](Pybites-02/game.py), [Mastering Python](https://www.amazon.com/Mastering-Python-Rick-van-Hattem/dp/1785289721), [Opsdroid](https://github.com/opsdroid/opsdroid/pull/376)
+**Link(s) to work**: [Pybites-02](day-2/Pybites-02/game.py), [Mastering Python](https://www.amazon.com/Mastering-Python-Rick-van-Hattem/dp/1785289721), [Opsdroid](https://github.com/opsdroid/opsdroid/pull/376)
 
 ### Day 3: January 6, 2018 (Pybites challenge 3)
 ##### Blog Tag Analysis, Datacamp, First steps to machine learning
 
 **Today's Progress**: Finished Pybites challenge 03, completed one tutorial on "first-steps to machine learning"
 
-**Thoughts:**  I've learned the importance of sorting things before doing something else with them. My code kept failing the test, I had to check the solution and saw that the problem was not sorting the pair before checking for similarity. I've also practiced pandas on datacamp and completed the tutorial [first-steps to machine learning](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/).
+**Thoughts:**  I've learned the importance of sorting things before doing something else with them. My code kept failing the test, I had to check the solution and saw that the problem was not sorting the pair before checking for similarity. I've also practised pandas on Datacamp and completed the tutorial [first-steps to machine learning](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/).
 
 **Link to work:** [Pybites-03](Pybites-03/tags.py)
 
@@ -41,7 +41,7 @@
 
 **Today's Progress**: Started working on pybites challenge 5. Read chapter 3 of Mastering Python and studied two papers: _Reinforcement Learning I: Introduction_ and  _Markov Decision Processes: Concepts and Algorithms_
 
-**Thoughts:**  Had a long day at work so the little down time I had I used to read about python and prepare my knowledge for the Course: Build an AI.
+**Thoughts:**  Had a long day at work so the little downtime I had I used to read about python and prepare my knowledge for the Course: Build an AI.
 
 ### Day 6: January 9, 2018 (Fixed issues in PRs)
 ##### Fixed issues in PRs raised by me on opsdroid and uplink
@@ -54,7 +54,7 @@
 ### Day 7: January 10, 2018 (Study and Opsdroid)
 ##### Fixed issues in a PR (opsdroid), studied a paper
 
-**Today's Progress**: Implemented the property  decorator to `opsdroid.connector`, worked out kinks in the PR and created a rudimentary test for new methods on the Messenger class. Studied the paper _Markov Decision Processes: Concepts and Algorithms_
+**Today's Progress**: Implemented the property decorator to `opsdroid.connector`, worked out kinks in the PR and created a rudimentary test for new methods on the Messenger class. Studied the paper _Markov Decision Processes: Concepts and Algorithms_
 
 **Thoughts:**  Unit testing still baffles me a bit. It usually takes a long while for me to think and implement basic testing cases. I've read the paper on Markov Decision Processes and studied Bellman Equations.
 
@@ -68,9 +68,9 @@
 ### Day 9: January 12, 2018 (NLTK and Book: Mastering Python)
 ##### Played around with NLTK, fixed opsdroid PR, read chapter 4 of Mastering Python
 
-**Today's Progress**: Catch up with my growing list of unlisten episodes of my podcasts. Read chapter 4 of Mastering Python, played with NLTK and worked on opsdroid PR.
+**Today's Progress**: Catch up with my growing list of unlisted episodes of my podcasts. Read chapter 4 of Mastering Python, played with NLTK and worked on opsdroid PR.
 
-**Thoughts:**  I spent a lot of time trying to make unit tests passing when mocking the `asyncio.sleep()` function. I've also did a lot of reading and that makes me feel that today wasn't as productive as it should been.
+**Thoughts:**  I spent a lot of time trying to make unit tests passing when mocking the `asyncio.sleep()` function. I've also done a lot of reading and that makes me feel that today wasn't as productive as it should be.
 
 ### Day 10: January 13, 2018 (NLTK, opsdroid PR and new skill)
 ##### Played around with NLTK again, worked on opsdroid PR, created skill-words for opsdroid
@@ -84,9 +84,9 @@
 ### Day 11: January 14, 2018 (Opsdoird skill - words)
 ##### Updated documentation and the translation function of Opsdroid skill - words
 
-**Today's Progress**:  Updated the translation function to accept translations from one language into another(before it would only translate from english), updated the documentation related to this function.
+**Today's Progress**:  Updated the translation function to accept translations from one language into another(before it would only translate from English), updated the documentation related to this function.
 
-**Thoughts:**  Today's work was a very quick one and the rest of the day was spend with my fiance. Will do some reading of the book Mastering Python in order to catch up with my hour of code.
+**Thoughts:**  Today's work was a very quick one and the rest of the day was spent with my fiance. Will do some reading of the book Mastering Python in order to catch up with my hour of code.
 
 **Link to work:** [Opsdroid Skill: words](https://github.com/opsdroid/skill-words)
 
@@ -111,7 +111,7 @@
 
 **Today's Progress**:  Spent a few hours working on Pybites challenge 05, got some reasonable results compared to the solutions, studied more about NLTK.
 
-**Thoughts:**  I'm not 100% happy with the code that I came up with Pybites challenge, the code takes a while to run and it doesn't look very good. 
+**Thoughts:**  I'm not 100% happy with the code that I came up with the Pybites challenge, the code takes a while to run and it doesn't look very good. 
 Although, I'm happy that I got a close enough result compared to the solution and that all I used was mostly the NLTK library.
 
 **Link to work:** [Pybites Challenge 05](day-14/Pybites-05/tweets.py)
@@ -133,11 +133,11 @@ Although, I'm happy that I got a close enough result compared to the solution an
 **Thoughts:**   It was a bit frustrating learning about sentiment analysis since I was unable to get good results. Started working on Pybites challenge 07 but I'm not happy with what I came up with.
 
 ### Day 17: January 20, 2018 (NLTK, Building an AI)
-##### Played with the sentiment analysis classifier,watched a few lessons on Building an AI
+##### Played with the sentiment analysis classifier, watched a few lessons on Building an AI
 
 **Today's Progress**:  Didn't do much today because of work and family time. Was able to do a few lessons on the course building and ai, read a bit from the book Mastering Python 
 
-**Thoughts:**   I'm trying to play around with the classifier to get a good accuracy rating on the sentiment analysis so I could use it on the Pybites challange 7. 
+**Thoughts:**   I'm trying to play around with the classifier to get a good accuracy rating on the sentiment analysis so I could use it on the Pybites challenge 7. 
 The classifier was returning only a negative, tried NLTK Vader's SentimentIntensityAnalyzer, but was returning mostly neutral sentiments. Will need to search more on this matter 
 to find a way to implement a good sentiment analyser.
 
@@ -155,7 +155,7 @@ I've also learned how to prevent the classifier to keep training on ever iterati
 ### Day 19: January 22, 2018 (Pybites challenge 07, Tweet Scrapper, dataset)
 ##### Pybites challenge, extend dataset
 
-**Today's Progress**:  Tweaked Pybites challenge 07, just need to accept terms from the terminal and it will done, searched for datasets to improve the classifier.
+**Today's Progress**:  Tweaked Pybites challenge 07, just need to accept terms from the terminal and it will do, searching for datasets to improve the classifier.
 
 **Thoughts:**  Got a good dataset from [Sentiment140](http://help.sentiment140.com/for-students/) to try and improve the classifier. Tried to clean the data without speeding down the classifier. 
 Created a tweet scrapper to classify tweets using TextBlob to classify tweets and save them in different files so they can be used in training the classifier.
@@ -166,9 +166,17 @@ Created a tweet scrapper to classify tweets using TextBlob to classify tweets an
 **Today's Progress**:  Read about asyncio to try and improve run speed on the classifier. All my attempts failed so I reduced the dataset size - it didn't affect the classifier accuracy much. 
 Finally finished challenge 07. Created a new project called tweetnalytic that contains the classifier and twitter interaction with the API. Read more about decorators and finished off with an exercise from exercism.
 
-**Thoughts:**  Playing around with the twitter API was fun, started a new project to kind off merge my solutions of Pybites challenge 07 and 05. Today I had the proof that I don't understand asycio yet. 
+**Thoughts:**  Playing around with the Twitter API was fun, started a new project to kind off merge my solutions of Pybites challenge 07 and 05. Today I had the proof that I don't understand asycio yet. 
 My attempt to turn the classifier into an asynchronous object failed, will keep on reading and experimenting until I find a way to do it properly and then use it in my code.
 
 **Link to work:** [Pybites challenge 07](day-18/Pybites-07/sentiment.py), [Tweetnalytic](https://github.com/FabioRosado/tweetnalytic), [exercism - allergies](day-20/exercism-allergies.py)
 
+### Day 21: January 24, 2018 (Pybites challenge 08)
+##### Pybites challenge, Reading: Mastering Python
 
+**Today's Progress**:  Finished Pybites challenge 08 and read more about generators from the book Mastering Python.
+
+**Thoughts:**  Today I was feeling tired so I didn't do much. Managed to finish Pybites challenge 8, this challenge was fun and easy. Made an ascii like version of the app. 
+This uses an insane ammount of print statements and if/else blocks. Did some reading on generators as well.
+
+**Link to work:** [Pybites challenge 08](day-21/Pybites-08/inventory.py)
