@@ -177,6 +177,13 @@ My attempt to turn the classifier into an asynchronous object failed, will keep 
 **Today's Progress**:  Finished Pybites challenge 08 and read more about generators from the book Mastering Python.
 
 **Thoughts:**  Today I was feeling tired so I didn't do much. Managed to finish Pybites challenge 8, this challenge was fun and easy. Made an ascii like version of the app. 
-This uses an insane ammount of print statements and if/else blocks. Did some reading on generators as well.
+This uses an insane amount of print statements and if/else blocks. Did some reading on generators as well.
 
 **Link to work:** [Pybites challenge 08](day-21/Pybites-08/inventory.py)
+
+### Day 22: January 25, 2018 (Mastering Python, opsdroid, uplink)
+##### Reading: Mastering Python, PRs - opsdroid, uplink
+
+**Today's Progress**:  Started reading the chapter about asyncio in Mastering Python. Worked on some previously raised PRs to comply with change requests.
+
+**Thoughts:**  Didn't have much time today so I couldn't code as much as I wanted. Read a bit and fixed some issues. Not very happy with the progress today.
