@@ -187,3 +187,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**:  Started reading the chapter about asyncio in Mastering Python. Worked on some previously raised PRs to comply with change requests.
 
 **Thoughts:**  Didn't have much time today so I couldn't code as much as I wanted. Read a bit and fixed some issues. Not very happy with the progress today.
+
+### Day 23: January 26, 2018 (CS50 - edx)
+##### New course - CS50
+
+**Today's Progress**: Spent 12 hours at work today, didn't have much time to code. I was able to squeeze in some reading, listened to podcasts while driving to/from work. Did one easy cod challege in codewars and started a new course on edx.
+
+**Thoughts:**  CS50 seems fun, they start teaching C and I always wanted to know enough to understand what does what in C. Will try to get some time to dedicate to this course.
