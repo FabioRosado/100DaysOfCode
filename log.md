@@ -194,3 +194,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Spent 12 hours at work today, didn't have much time to code. I was able to squeeze in some reading, listened to podcasts while driving to/from work. Did one easy cod challege in codewars and started a new course on edx.
 
 **Thoughts:**  CS50 seems fun, they start teaching C and I always wanted to know enough to understand what does what in C. Will try to get some time to dedicate to this course.
+
+### Day 24: January 28, 2018 (Tweetnalytic, Learn How To Build An AI)
+##### Learn How To Build An AI, Tweetnalytic
+
+**Today's Progress**: Learned about the pickle module and how to save the trained classifier so it can be used again without the need to train it again. Did one challenge in CodeWars and spent a few hours following the Udemy course: Building an AI.
+
+**Thoughts:** I'm sick with the flu so a lot of today was spent sleeping and trying to recover. Didn't code as much as I wanted, but I was able to spent one hour watching the videos of the course: Building and AI on udemy.
