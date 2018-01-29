@@ -201,3 +201,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Learned about the pickle module and how to save the trained classifier so it can be used again without the need to train it again. Did one challenge in CodeWars and spent a few hours following the Udemy course: Building an AI.
 
 **Thoughts:** I'm sick with the flu so a lot of today was spent sleeping and trying to recover. Didn't code as much as I wanted, but I was able to spent one hour watching the videos of the course: Building and AI on udemy.
+
+### Day 25: January 29, 2018 (edx course - CS50)
+##### CS50
+
+**Today's Progress**: Watched three hours of videos about the course CS50. 
+
+**Thoughts:** I was unable to do much today because I feel worse than yesterday. Been having high fever the whole day. Still when the fever went down I was able to watch videos from the course  
