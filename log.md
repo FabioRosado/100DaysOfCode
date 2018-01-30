@@ -208,3 +208,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Watched three hours of videos about the course CS50. 
 
 **Thoughts:** I was unable to do much today because I feel worse than yesterday. Been having high fever the whole day. Still when the fever went down I was able to watch videos from the course  
+
+### Day 26: January 30, 2018 (edx course - CS50)
+##### CS50
+
+**Today's Progress**: Started working on Pset 1 for CS50. Started a course on C to help me with the first part of the CS50
+
+**Thoughts:** Switching from Python to C was quite easy although I tend to forget the semicolons. 
