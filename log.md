@@ -215,3 +215,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Started working on Pset 1 for CS50. Started a course on C to help me with the first part of the CS50
 
 **Thoughts:** Switching from Python to C was quite easy although I tend to forget the semicolons. 
+
+### Day 27: January 1, 2018 (edx course - CS50, Pybites)
+##### CS50, Pybites challenge 10
+
+**Today's Progress**: Feeling a bit better today, was able to do some exercises for CS50 and started working on Pybites challenge 10  but was unable to finish.
+
+**Thoughts:** I'm a bit upset that I missed another day of the challenge, but yesterday I was feeling pretty bad. Today wasn't as productive as it should be, but I feel a bit better so Im trying to use my time as best as possible.
