@@ -222,3 +222,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Feeling a bit better today, was able to do some exercises for CS50 and started working on Pybites challenge 10  but was unable to finish.
 
 **Thoughts:** I'm a bit upset that I missed another day of the challenge, but yesterday I was feeling pretty bad. Today wasn't as productive as it should be, but I feel a bit better so Im trying to use my time as best as possible.
+
+### Day 28: January 2, 2018 (Building an AI, DataCamp)
+##### Building an AI, DataCam
+
+**Today's Progress**: Took two lessons on Building an AI and practiced some code on datacamp.
+
+**Thoughts:** I'm still recovering from being sick. Today I spent most of my time studying for annual exams for my job. I was able to code a bit in the evening. 
