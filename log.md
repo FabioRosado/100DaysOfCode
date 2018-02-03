@@ -229,3 +229,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Took two lessons on Building an AI and practiced some code on datacamp.
 
 **Thoughts:** I'm still recovering from being sick. Today I spent most of my time studying for annual exams for my job. I was able to code a bit in the evening. 
+
+### Day 29: January 3, 2018 (Building an AI, Pybites)
+##### Building an AI, Pybites
+
+**Today's Progress**: Finished Pybites challenge 10 - build an hangman game. Did two lessons of the course Building an AI.
+
+**Thoughts:** Creating the hangman game was quite fun and easy to do with using only a class. My previous attempts when using functions, didn't look this simple so I'm happy with it.
