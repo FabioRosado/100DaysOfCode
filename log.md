@@ -237,9 +237,16 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 
 **Thoughts:** Creating the hangman game was quite fun and easy to do with using only a class. My previous attempts when using functions, didn't look this simple so I'm happy with it.
 
-### Day 30: January 3, 2018 (Building an AI, Mastering Python)
+### Day 30: January 4, 2018 (Building an AI, Mastering Python)
 ##### Building an AI, Mastering Python
 
 **Today's Progress**: Didn't do much coding today. Was busy with family stuff and studying for my annual exams. 
 
 **Thoughts:** I'm a bit unsure what next project to work on. I would like to fix the tweetnalytic app to make it more useful.
+
+### Day 31: January 5, 2018 (Mastering Python)
+##### Mastering Python
+
+**Today's Progress**: Didn't had the opportunity to code today due to the annual exams I need to do for work. To not lose a day I spent one hour reading the book Mastering Python.
+
+**Thoughts:** I keep reading about asyncio, things are starting to make more sense but I need to keep on trying using it until it makes proper sense.
