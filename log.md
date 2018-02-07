@@ -250,3 +250,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Didn't had the opportunity to code today due to the annual exams I need to do for work. To not lose a day I spent one hour reading the book Mastering Python.
 
 **Thoughts:** I keep reading about asyncio, things are starting to make more sense but I need to keep on trying using it until it makes proper sense.
+
+### Day 32: January 7, 2018 (Mastering Python, Flask Mega Tutorial)
+##### Mastering Python, Miguel's Flask Mega Tutorial
+
+**Today's Progress**: Started working on Miguel's Flask Mega Tutorial, Read a bit more of the book Mastering Python.
+
+**Thoughts:** Flask seems quite easy to figure out. I might change my personal blog from Jekyll to Flask.
