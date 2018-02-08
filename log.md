@@ -257,3 +257,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Started working on Miguel's Flask Mega Tutorial, Read a bit more of the book Mastering Python.
 
 **Thoughts:** Flask seems quite easy to figure out. I might change my personal blog from Jekyll to Flask.
+
+### Day 33: January 8, 2018 (Opsdroid skill, Flask Mega Tutorial)
+##### Opsdroid skill, Miguel's Flask Mega Tutorial
+
+**Today's Progress**: Finally got my hands into Opsdroid's skill - Words. The translate function wasn't working properly when two words were given as the translation for a word. This is now fixed. Did part 3 of Miguel's Mega Tutorial.
+
+**Thoughts:** I'm happy to have fixed the issue with the translate function of this opsdroid skill. The solution is quite inelegant, but does the job.
