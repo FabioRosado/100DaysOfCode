@@ -264,3 +264,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Finally got my hands into Opsdroid's skill - Words. The translate function wasn't working properly when two words were given as the translation for a word. This is now fixed. Did part 3 of Miguel's Mega Tutorial.
 
 **Thoughts:** I'm happy to have fixed the issue with the translate function of this opsdroid skill. The solution is quite inelegant, but does the job.
+
+### Day 34: January 9, 2018 (Freecodecamp)
+##### Freecodecamp
+
+**Today's Progress**: Started doing freecodecamp challenges to practice more about html and css.
+
+**Thoughts:** So far the challenges been quite easy, need to start go deeper. I'm eager to practice some javascript.
