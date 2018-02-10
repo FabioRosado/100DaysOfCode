@@ -271,3 +271,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Started doing freecodecamp challenges to practice more about html and css.
 
 **Thoughts:** So far the challenges been quite easy, need to start go deeper. I'm eager to practice some javascript.
+
+### Day 35: January 10, 2018 (Opsdroid, Mastering Python)
+##### Freecodecamp
+
+**Today's Progress**: Been active on opsdroid project. Submitted two PR's - one easy one to close an issue and another to help translate logging messages using gettext.
+
+**Thoughts:** Today's PR's were time consuming but not hard to implement. Most logging messages use gettext now and I can start translating them to Portuguese. I've also read a bit of the book Mastering Python.
