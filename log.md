@@ -273,8 +273,15 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Thoughts:** So far the challenges been quite easy, need to start go deeper. I'm eager to practice some javascript.
 
 ### Day 35: January 10, 2018 (Opsdroid, Mastering Python)
-##### Freecodecamp
+##### Opsdroid, Mastering Python
 
 **Today's Progress**: Been active on opsdroid project. Submitted two PR's - one easy one to close an issue and another to help translate logging messages using gettext.
 
 **Thoughts:** Today's PR's were time consuming but not hard to implement. Most logging messages use gettext now and I can start translating them to Portuguese. I've also read a bit of the book Mastering Python.
+
+### Day 36: January 11, 2018 (Opsdroid, Mastering Python)
+##### Opsdroid, Mastering Python
+
+**Today's Progress**: Very slow day, wasn't able to code anything so I read about metaclasses from the book Mastering Python and created a PR for opsdroid (documentation update)
+
+**Thoughts:** I need to get back to do some pybites challenges because it been a while since I struggled with something and I need to code more.
