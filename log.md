@@ -285,3 +285,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Very slow day, wasn't able to code anything so I read about metaclasses from the book Mastering Python and created a PR for opsdroid (documentation update)
 
 **Thoughts:** I need to get back to do some pybites challenges because it been a while since I struggled with something and I need to code more.
+
+### Day 37: January 12, 2018 (Tweetnalytic, Mastering Python)
+##### Tweetnalytic, Mastering Python
+
+**Today's Progress**: Worked on the Tweetnalytic project, managed to cut down some duplicated code.
+
+**Thoughts:** Read more about metaclasses on Mastering Python and worked on my code on the project Tweetnalytic.
