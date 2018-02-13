@@ -292,3 +292,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Worked on the Tweetnalytic project, managed to cut down some duplicated code.
 
 **Thoughts:** Read more about metaclasses on Mastering Python and worked on my code on the project Tweetnalytic.
+
+### Day 38: January 13, 2018 (Datacamp, Mastering Python)
+##### Datacamp, Mastering Python
+
+**Today's Progress**: Did some exercises on Datacamp and finished the chapter on Metaclasses from the book Mastering Python.
+
+**Thoughts:** Been preparing for my trip to Edinburgh so didn't do much today. Was happy to finish the chapter of Mastering Python.
