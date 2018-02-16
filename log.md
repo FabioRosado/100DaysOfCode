@@ -299,3 +299,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Did some exercises on Datacamp and finished the chapter on Metaclasses from the book Mastering Python.
 
 **Thoughts:** Been preparing for my trip to Edinburgh so didn't do much today. Was happy to finish the chapter of Mastering Python.
+
+### Day 39: January 16, 2018 (Datacamp, freecodecamp)
+##### Datacamp, freecodecamp
+
+**Today's Progress**: Did some exercises in datacamp and freecodecamp.
+
+**Thoughts:** I was a bit tired today so I did some easy exercises both in python and html/css in freecodecamp.
