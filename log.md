@@ -306,3 +306,12 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Did some exercises in datacamp and freecodecamp.
 
 **Thoughts:** I was a bit tired today so I did some easy exercises both in python and html/css in freecodecamp.
+
+### Day 40: January 17, 2018 (Datacamp, Tweetnalytic)
+##### Datacamp, Tweetnalytic
+
+**Today's Progress**: Finished one course from Datacamp, practiced lambda functions and how to use them on functions such `map()`, `filter()`. Fixed some things that were bothering me in the project tweetnalytic.
+
+**Thoughts:** Lately I've been a bit unsure what to do with code. Today was a nice day as I finished one course from Datacamp and played around with the exercises. I've also removed two methods from a class on the tweetnalytic project and filtered the tweets to remove duplicates.
+
+**Link to work:** [Tweetnalytic](https://github.com/FabioRosado/tweetnalytic)
