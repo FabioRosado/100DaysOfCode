@@ -315,3 +315,12 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Thoughts:** Lately I've been a bit unsure what to do with code. Today was a nice day as I finished one course from Datacamp and played around with the exercises. I've also removed two methods from a class on the tweetnalytic project and filtered the tweets to remove duplicates.
 
 **Link to work:** [Tweetnalytic](https://github.com/FabioRosado/tweetnalytic)
+
+### Day 41: January 18, 2018 (Datacamp, freecodecamp)
+##### Datacamp, freecodecamp
+
+**Today's Progress**: Finished the html/css/bootstrap modules in freecodecamp. Started a new course on Datacamp - Network Analysis in Python (part 1)
+
+**Thoughts:** It's been fun learning about network analysis in datacamp and get some fundamentals on graphs. I'm about to start jQuery medule on freecodecamp, should be interesting.
+
+**Link to work:** [Breath-first search algorithm](day-41/Datacamp-Breadth-first-search.py)
