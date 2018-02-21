@@ -324,3 +324,21 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Thoughts:** It's been fun learning about network analysis in datacamp and get some fundamentals on graphs. I'm about to start jQuery medule on freecodecamp, should be interesting.
 
 **Link to work:** [Breath-first search algorithm](day-41/Datacamp-Breadth-first-search.py)
+
+### Day 42: January 20, 2018 (Datacamp)
+##### Datacamp, freecodecamp
+
+**Today's Progress**: Completed the course on Datacamp - Network Analysis in Python (part 1)
+
+**Thoughts:** Finished the course on network analysis, learned a few things about graphs and how they can be used to analyse a clique. Will start a datacamp project to implement all that I have learned in the course.
+
+
+### Day 43: January 21, 2018 (Datacamp, opsdroid, Mastering Python)
+##### Datacamp, freecodecamp
+
+**Today's Progress**: Started a new course on Datacamp - Natural Language Processing Fundamentals in Python, submitted a new PR to opsdroid and commented on some issues and PRs. Started a new chapter on the book Mastering Python.
+
+**Thoughts:** It took me longer than it should to write my PR to opsdroid. The implementation was very simple but had issues with the tests. In the end I created something but I'm not very happy with it. I've also tried to write a script to get the free book of packtbook of the day, but every time I used requests to get the data, a 403 code was returned.
+
+
+
