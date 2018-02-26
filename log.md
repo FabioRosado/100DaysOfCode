@@ -334,11 +334,19 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 
 
 ### Day 43: January 21, 2018 (Datacamp, opsdroid, Mastering Python)
-##### Datacamp, freecodecamp
+##### Datacamp, opsdroid, Mastering Python
 
 **Today's Progress**: Started a new course on Datacamp - Natural Language Processing Fundamentals in Python, submitted a new PR to opsdroid and commented on some issues and PRs. Started a new chapter on the book Mastering Python.
 
 **Thoughts:** It took me longer than it should to write my PR to opsdroid. The implementation was very simple but had issues with the tests. In the end I created something but I'm not very happy with it. I've also tried to write a script to get the free book of packtbook of the day, but every time I used requests to get the data, a 403 code was returned.
+
+
+### Day 44: January 26, 2018 (opsdroid, Mastering Python)
+##### opsdroid, Mastering Python
+
+**Today's Progress**: Did a quick fix to meet requirements to my PR to opsdroid. Read another chapter on Mastering Python.
+
+**Thoughts:** This last week at work was a pretty busy, long days so I missed about 4 days of coding. I tried to catch up today, but was a bit tired so did as much as I could.
 
 
 
