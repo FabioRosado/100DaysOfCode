@@ -348,5 +348,13 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 
 **Thoughts:** This last week at work was a pretty busy, long days so I missed about 4 days of coding. I tried to catch up today, but was a bit tired so did as much as I could.
 
+### Day 45: January 27, 2018 (opsdroid, freecodecamp )
+##### opsdroid, freecodecamp 
+
+**Today's Progress**: Worked on my PR (adding no-dep flag), wrote a new test and was stuck for a while until I managed to get it green. Finished the course on JQuery on freecodecamp.
+
+**Thoughts:**  Today I spent most of the day working on opsdroid, creating a test that passed consumed some of my morning. Then, I tried to figure out why opsdroid wasn't replying to commands, in the end I had to play around with git and previous versions to pin-point where the issue was, I tried to work around to make opsdroid work without a module, in the end I just revered the changed of a PR as a temporary solution.
+
+
 
 
