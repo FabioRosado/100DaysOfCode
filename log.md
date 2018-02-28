@@ -355,6 +355,11 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 
 **Thoughts:**  Today I spent most of the day working on opsdroid, creating a test that passed consumed some of my morning. Then, I tried to figure out why opsdroid wasn't replying to commands, in the end I had to play around with git and previous versions to pin-point where the issue was, I tried to work around to make opsdroid work without a module, in the end I just revered the changed of a PR as a temporary solution.
 
+### Day 46: January 28, 2018 (opsdroid, Datacamp )
+##### opsdroid, Datacamp 
 
+**Today's Progress**: Was trying to figure out why opsdroid was broken. In the end the  solution was fond by opsdroid founder (Jacob Tomlinson).  Did some exercises in Datacamp's course - Natural Language Processing Fundamentals in Python.
+
+**Thoughts:**  Today was a slow day, but it was fun to work on the exercises in datacamp and practice my regex skills.
 
 
