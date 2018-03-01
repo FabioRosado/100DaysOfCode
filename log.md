@@ -216,98 +216,98 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 
 **Thoughts:** Switching from Python to C was quite easy although I tend to forget the semicolons. 
 
-### Day 27: January 1, 2018 (edx course - CS50, Pybites)
+### Day 27: February 1, 2018 (edx course - CS50, Pybites)
 ##### CS50, Pybites challenge 10
 
 **Today's Progress**: Feeling a bit better today, was able to do some exercises for CS50 and started working on Pybites challenge 10  but was unable to finish.
 
 **Thoughts:** I'm a bit upset that I missed another day of the challenge, but yesterday I was feeling pretty bad. Today wasn't as productive as it should be, but I feel a bit better so Im trying to use my time as best as possible.
 
-### Day 28: January 2, 2018 (Building an AI, DataCamp)
+### Day 28: February 2, 2018 (Building an AI, DataCamp)
 ##### Building an AI, DataCam
 
 **Today's Progress**: Took two lessons on Building an AI and practiced some code on datacamp.
 
 **Thoughts:** I'm still recovering from being sick. Today I spent most of my time studying for annual exams for my job. I was able to code a bit in the evening. 
 
-### Day 29: January 3, 2018 (Building an AI, Pybites)
+### Day 29: February 3, 2018 (Building an AI, Pybites)
 ##### Building an AI, Pybites
 
 **Today's Progress**: Finished Pybites challenge 10 - build an hangman game. Did two lessons of the course Building an AI.
 
 **Thoughts:** Creating the hangman game was quite fun and easy to do with using only a class. My previous attempts when using functions, didn't look this simple so I'm happy with it.
 
-### Day 30: January 4, 2018 (Building an AI, Mastering Python)
+### Day 30: February 4, 2018 (Building an AI, Mastering Python)
 ##### Building an AI, Mastering Python
 
 **Today's Progress**: Didn't do much coding today. Was busy with family stuff and studying for my annual exams. 
 
 **Thoughts:** I'm a bit unsure what next project to work on. I would like to fix the tweetnalytic app to make it more useful.
 
-### Day 31: January 5, 2018 (Mastering Python)
+### Day 31: February 5, 2018 (Mastering Python)
 ##### Mastering Python
 
 **Today's Progress**: Didn't had the opportunity to code today due to the annual exams I need to do for work. To not lose a day I spent one hour reading the book Mastering Python.
 
 **Thoughts:** I keep reading about asyncio, things are starting to make more sense but I need to keep on trying using it until it makes proper sense.
 
-### Day 32: January 7, 2018 (Mastering Python, Flask Mega Tutorial)
+### Day 32: February 7, 2018 (Mastering Python, Flask Mega Tutorial)
 ##### Mastering Python, Miguel's Flask Mega Tutorial
 
 **Today's Progress**: Started working on Miguel's Flask Mega Tutorial, Read a bit more of the book Mastering Python.
 
 **Thoughts:** Flask seems quite easy to figure out. I might change my personal blog from Jekyll to Flask.
 
-### Day 33: January 8, 2018 (Opsdroid skill, Flask Mega Tutorial)
+### Day 33: February 8, 2018 (Opsdroid skill, Flask Mega Tutorial)
 ##### Opsdroid skill, Miguel's Flask Mega Tutorial
 
 **Today's Progress**: Finally got my hands into Opsdroid's skill - Words. The translate function wasn't working properly when two words were given as the translation for a word. This is now fixed. Did part 3 of Miguel's Mega Tutorial.
 
 **Thoughts:** I'm happy to have fixed the issue with the translate function of this opsdroid skill. The solution is quite inelegant, but does the job.
 
-### Day 34: January 9, 2018 (Freecodecamp)
+### Day 34: February 9, 2018 (Freecodecamp)
 ##### Freecodecamp
 
 **Today's Progress**: Started doing freecodecamp challenges to practice more about html and css.
 
 **Thoughts:** So far the challenges been quite easy, need to start go deeper. I'm eager to practice some javascript.
 
-### Day 35: January 10, 2018 (Opsdroid, Mastering Python)
+### Day 35: February 10, 2018 (Opsdroid, Mastering Python)
 ##### Opsdroid, Mastering Python
 
 **Today's Progress**: Been active on opsdroid project. Submitted two PR's - one easy one to close an issue and another to help translate logging messages using gettext.
 
 **Thoughts:** Today's PR's were time consuming but not hard to implement. Most logging messages use gettext now and I can start translating them to Portuguese. I've also read a bit of the book Mastering Python.
 
-### Day 36: January 11, 2018 (Opsdroid, Mastering Python)
+### Day 36: February 11, 2018 (Opsdroid, Mastering Python)
 ##### Opsdroid, Mastering Python
 
 **Today's Progress**: Very slow day, wasn't able to code anything so I read about metaclasses from the book Mastering Python and created a PR for opsdroid (documentation update)
 
 **Thoughts:** I need to get back to do some pybites challenges because it been a while since I struggled with something and I need to code more.
 
-### Day 37: January 12, 2018 (Tweetnalytic, Mastering Python)
+### Day 37: February 12, 2018 (Tweetnalytic, Mastering Python)
 ##### Tweetnalytic, Mastering Python
 
 **Today's Progress**: Worked on the Tweetnalytic project, managed to cut down some duplicated code.
 
 **Thoughts:** Read more about metaclasses on Mastering Python and worked on my code on the project Tweetnalytic.
 
-### Day 38: January 13, 2018 (Datacamp, Mastering Python)
+### Day 38: February 13, 2018 (Datacamp, Mastering Python)
 ##### Datacamp, Mastering Python
 
 **Today's Progress**: Did some exercises on Datacamp and finished the chapter on Metaclasses from the book Mastering Python.
 
 **Thoughts:** Been preparing for my trip to Edinburgh so didn't do much today. Was happy to finish the chapter of Mastering Python.
 
-### Day 39: January 16, 2018 (Datacamp, freecodecamp)
+### Day 39: February 16, 2018 (Datacamp, freecodecamp)
 ##### Datacamp, freecodecamp
 
 **Today's Progress**: Did some exercises in datacamp and freecodecamp.
 
 **Thoughts:** I was a bit tired today so I did some easy exercises both in python and html/css in freecodecamp.
 
-### Day 40: January 17, 2018 (Datacamp, Tweetnalytic)
+### Day 40: February 17, 2018 (Datacamp, Tweetnalytic)
 ##### Datacamp, Tweetnalytic
 
 **Today's Progress**: Finished one course from Datacamp, practiced lambda functions and how to use them on functions such `map()`, `filter()`. Fixed some things that were bothering me in the project tweetnalytic.
@@ -316,7 +316,7 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 
 **Link to work:** [Tweetnalytic](https://github.com/FabioRosado/tweetnalytic)
 
-### Day 41: January 18, 2018 (Datacamp, freecodecamp)
+### Day 41: February 18, 2018 (Datacamp, freecodecamp)
 ##### Datacamp, freecodecamp
 
 **Today's Progress**: Finished the html/css/bootstrap modules in freecodecamp. Started a new course on Datacamp - Network Analysis in Python (part 1)
@@ -325,7 +325,7 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 
 **Link to work:** [Breath-first search algorithm](day-41/Datacamp-Breadth-first-search.py)
 
-### Day 42: January 20, 2018 (Datacamp)
+### Day 42: February 20, 2018 (Datacamp)
 ##### Datacamp, freecodecamp
 
 **Today's Progress**: Completed the course on Datacamp - Network Analysis in Python (part 1)
@@ -333,7 +333,7 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Thoughts:** Finished the course on network analysis, learned a few things about graphs and how they can be used to analyse a clique. Will start a datacamp project to implement all that I have learned in the course.
 
 
-### Day 43: January 21, 2018 (Datacamp, opsdroid, Mastering Python)
+### Day 43: February 21, 2018 (Datacamp, opsdroid, Mastering Python)
 ##### Datacamp, opsdroid, Mastering Python
 
 **Today's Progress**: Started a new course on Datacamp - Natural Language Processing Fundamentals in Python, submitted a new PR to opsdroid and commented on some issues and PRs. Started a new chapter on the book Mastering Python.
@@ -341,25 +341,33 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Thoughts:** It took me longer than it should to write my PR to opsdroid. The implementation was very simple but had issues with the tests. In the end I created something but I'm not very happy with it. I've also tried to write a script to get the free book of packtbook of the day, but every time I used requests to get the data, a 403 code was returned.
 
 
-### Day 44: January 26, 2018 (opsdroid, Mastering Python)
+### Day 44: February 26, 2018 (opsdroid, Mastering Python)
 ##### opsdroid, Mastering Python
 
 **Today's Progress**: Did a quick fix to meet requirements to my PR to opsdroid. Read another chapter on Mastering Python.
 
 **Thoughts:** This last week at work was a pretty busy, long days so I missed about 4 days of coding. I tried to catch up today, but was a bit tired so did as much as I could.
 
-### Day 45: January 27, 2018 (opsdroid, freecodecamp )
+### Day 45: February 27, 2018 (opsdroid, freecodecamp )
 ##### opsdroid, freecodecamp 
 
 **Today's Progress**: Worked on my PR (adding no-dep flag), wrote a new test and was stuck for a while until I managed to get it green. Finished the course on JQuery on freecodecamp.
 
 **Thoughts:**  Today I spent most of the day working on opsdroid, creating a test that passed consumed some of my morning. Then, I tried to figure out why opsdroid wasn't replying to commands, in the end I had to play around with git and previous versions to pin-point where the issue was, I tried to work around to make opsdroid work without a module, in the end I just revered the changed of a PR as a temporary solution.
 
-### Day 46: January 28, 2018 (opsdroid, Datacamp )
+### Day 46: February 28, 2018 (opsdroid, Datacamp )
 ##### opsdroid, Datacamp 
 
 **Today's Progress**: Was trying to figure out why opsdroid was broken. In the end the  solution was fond by opsdroid founder (Jacob Tomlinson).  Did some exercises in Datacamp's course - Natural Language Processing Fundamentals in Python.
 
 **Thoughts:**  Today was a slow day, but it was fun to work on the exercises in datacamp and practice my regex skills.
 
+### Day 47: March 1, 2018 (opsdroid, freecodecamp, Datacamp, Tutorial: Scotch.io)
+##### opsdroid, freecodecamp, Datacamp, Tutorial: Scotch.io
 
+**Today's Progress**: Finished first project on freecodecamp. Came around with a quick fix for an issue on opsdroid, started playing around with Vue. Trained a bit more of regex on Datacamp.
+
+**Thoughts:**  Today was a fun day. Finished the first project on freecodecamp, building a simple tribute page. I've also started playing around with vue and seems like a fun thing to do.
+
+**Links:** [Build a Blog With Vue, GraphQL, and Apollo Client
+](https://scotch.io/tutorials/build-a-blog-with-vue-graphql-and-apollo-client#enabling-cors) [freecodecamp - Tribute page](https://codepen.io/FabioRosado/full/gvZpVd/)
