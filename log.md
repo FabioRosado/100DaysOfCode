@@ -371,3 +371,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 
 **Links:** [Build a Blog With Vue, GraphQL, and Apollo Client
 ](https://scotch.io/tutorials/build-a-blog-with-vue-graphql-and-apollo-client#enabling-cors) [freecodecamp - Tribute page](https://codepen.io/FabioRosado/full/gvZpVd/)
+
+### Day 48: March 2, 2018 (opsdroid)
+##### opsdroid
+
+**Today's Progress**: Submitted a PR to opsdroid fixing an issue and also created a test for the quick fix which didn't increase the coverage.
+
+**Thoughts:**  Didn't do much coding today because I came home quite tired from work. I was able to submit a PR and reply to some questions on opsdroid. 
