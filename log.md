@@ -378,3 +378,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Submitted a PR to opsdroid fixing an issue and also created a test for the quick fix which didn't increase the coverage.
 
 **Thoughts:**  Didn't do much coding today because I came home quite tired from work. I was able to submit a PR and reply to some questions on opsdroid. 
+
+### Day 49: March 8, 2018 (Codecademy, Scotch.io)
+##### Codecademy - Javascript, Scotch.io - Getting started with Vue
+
+**Today's Progress**: Started a course on Vue framework. After doing the introduction exercise (creating hello world) I decided to get some basics on Javascript.
+
+**Thoughts:** I can see the similarities between Python and Javascript and my knowledge of Python comes in handy when trying to pick up another language. Currently the javascript course on codecademy is 24% done, I'm eager to get back and try things with Vue as it seems a nice thing to know and play with.
