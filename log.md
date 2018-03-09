@@ -385,3 +385,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Started a course on Vue framework. After doing the introduction exercise (creating hello world) I decided to get some basics on Javascript.
 
 **Thoughts:** I can see the similarities between Python and Javascript and my knowledge of Python comes in handy when trying to pick up another language. Currently the javascript course on codecademy is 24% done, I'm eager to get back and try things with Vue as it seems a nice thing to know and play with.
+
+### Day 50: March 9, 2018 (Codecademy)
+##### Codecademy - Javascript, 
+
+**Today's Progress**: Learned about creating functions on Javascript.
+
+**Thoughts:** Today was a very slow day, but learned about the different ways to create a function in Javascript, all the different ways seems a bit confusing. With practice I'll probably ge tthe hang of it.
