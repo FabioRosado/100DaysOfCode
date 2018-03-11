@@ -391,4 +391,11 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 
 **Today's Progress**: Learned about creating functions on Javascript.
 
-**Thoughts:** Today was a very slow day, but learned about the different ways to create a function in Javascript, all the different ways seems a bit confusing. With practice I'll probably ge tthe hang of it.
+**Thoughts:** Today was a very slow day, but learned about the different ways to create a function in Javascript, all the different ways seems a bit confusing. With practice I'll probably ge the hang of it.
+
+### Day 51: March 10, 2018 (Codecademy, freecodecamp)
+##### Codecademy - Javascript, 
+
+**Today's Progress**:Continued the course about javascript on codecademy. Started doing project 2 from codecademy - create a single page portfolio.
+
+**Thoughts:** I've started playing around with bulma.io I really like it so far and love the color scheme of it. I'm trying to code a portfolio a bit different than my actual one.
