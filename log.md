@@ -393,9 +393,16 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 
 **Thoughts:** Today was a very slow day, but learned about the different ways to create a function in Javascript, all the different ways seems a bit confusing. With practice I'll probably ge the hang of it.
 
-### Day 51: March 10, 2018 (Codecademy, freecodecamp)
+### Day 51: March 11, 2018 (Codecademy, freecodecamp)
 ##### Codecademy - Javascript, 
 
 **Today's Progress**:Continued the course about javascript on codecademy. Started doing project 2 from codecademy - create a single page portfolio.
 
 **Thoughts:** I've started playing around with bulma.io I really like it so far and love the color scheme of it. I'm trying to code a portfolio a bit different than my actual one.
+
+### Day 52: March 13, 2018 (Datacamp, opsdroid)
+##### Datacamp, opsdroid
+
+**Today's Progress**: Started the day by testing opsdroid-audio and see if my fix for reading links worked. Worked on the Natural Language Processing course on Datacamp.
+
+**Thoughts:**  Had issues with anaconda replacing python3 path, this took a while for me to fix. Then the opsdroid-audio didn't work due to snowboydetect issue so I spent another long time trying to find a fix for it - it was unsuccessful. Got an introduction to gensim in Datacamp's course and decided that I should play around with it more. 
