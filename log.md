@@ -406,3 +406,12 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Started the day by testing opsdroid-audio and see if my fix for reading links worked. Worked on the Natural Language Processing course on Datacamp.
 
 **Thoughts:**  Had issues with anaconda replacing python3 path, this took a while for me to fix. Then the opsdroid-audio didn't work due to snowboydetect issue so I spent another long time trying to find a fix for it - it was unsuccessful. Got an introduction to gensim in Datacamp's course and decided that I should play around with it more. 
+
+### Day 53: March 14, 2018 (Datacamp, codecademy)
+##### Datacamp, codecademy
+
+**Today's Progress**: Finished the course on Natural Language Processing and wrote a classifier that checks if an article is fake/real news. Studied more of javascript on codecademy.
+
+**Thoughts:** Creating the classifier was quite fun and made me think that perhaps I should use the sklearn to improve my tweet analytics classifier. 
+
+**Links:** [Datacamp - Fake News Classifier](day-53/fakenews.py)
