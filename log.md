@@ -415,3 +415,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Thoughts:** Creating the classifier was quite fun and made me think that perhaps I should use the sklearn to improve my tweet analytics classifier. 
 
 **Links:** [Datacamp - Fake News Classifier](day-53/fakenews.py)
+
+### Day 54: March 15, 2018 (Codecademy, Book: Mastering Python)
+##### Codecademy, Mastering Python
+
+**Today's Progress**: Learned about iterators in javascript. Read the chapter about using Sphinx to generate documentation on the book Mastering Python.
+
+**Thoughts:** Iterators in javascript seem a bit harder to master than ones in Python mostly due to the various ways to use them. Practice makes perfect and I've tried a few different approaches on codecademy.
