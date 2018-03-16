@@ -422,3 +422,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Learned about iterators in javascript. Read the chapter about using Sphinx to generate documentation on the book Mastering Python.
 
 **Thoughts:** Iterators in javascript seem a bit harder to master than ones in Python mostly due to the various ways to use them. Practice makes perfect and I've tried a few different approaches on codecademy.
+
+### Day 55: March 16, 2018 (Codecademy)
+##### Codecademy
+
+**Today's Progress**: Learned  about creating objects and classes in Javascript. Practiced creating classes as much as possible.
+
+**Thoughts:**  Creating a class in Javascript is different than Python so I took some time to practice the exercises and try to get into it. This lesson also helped me understand python classes better.
