@@ -429,3 +429,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Learned  about creating objects and classes in Javascript. Practiced creating classes as much as possible.
 
 **Thoughts:**  Creating a class in Javascript is different than Python so I took some time to practice the exercises and try to get into it. This lesson also helped me understand python classes better.
+
+### Day 56: March 17, 2018 (Codecademy, freecodecamp)
+##### Codecademy, freecodecamp
+
+**Today's Progress**: Finished the Javascript course on codecademy. Started working on the second project of freecodecamp.
+
+**Thoughts:**  I've enjoyed the last part of the javascript code in codecademy, I've learned a bit more about making requests with javascript and how to create an url shortener like bit.ly
