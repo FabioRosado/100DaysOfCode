@@ -444,3 +444,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 
 **Thoughts:**  Now that I have the basics of Javascript I can understand the workings of Vue much better. I like how simple and easy things seem to be when using the Vue framework.
 
+### Day 58: March 20, 2018 (opsdroid, freecodecamp)
+##### opsdroid, freecodecamp
+
+**Today's Progress**: Spend some time updating a script for maintainers of opsdroid. Once that was done I've decided to update the script a bit further to include connectors and parsers - this is a work in progress. I've also tweaked a bit the layout of the project 2 of freecodecamp.
+
+**Thoughts:** Working with file paths was a bit confusing at first because I was getting different results when running the script in pycharm and in the command line. In the end I've understood the issue and fixed it. Working with bulma css has been quite fun.
+
