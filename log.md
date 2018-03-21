@@ -451,3 +451,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 
 **Thoughts:** Working with file paths was a bit confusing at first because I was getting different results when running the script in pycharm and in the command line. In the end I've understood the issue and fixed it. Working with bulma css has been quite fun.
 
+### Day 59: March 21, 2018 (opsdroid)
+##### opsdroid
+
+**Today's Progress**: Spent most of the day refactoring the maintainers script to include more modules other than skills.
+
+**Thoughts:** Refactoring took me a while because I was trying to understand the script better in order to work around it. It's currently 90% done but will need to finish it later and test it, hopefully everything will go okay.
+
