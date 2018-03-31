@@ -458,3 +458,9 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 
 **Thoughts:** Refactoring took me a while because I was trying to understand the script better in order to work around it. It's currently 90% done but will need to finish it later and test it, hopefully everything will go okay.
 
+### Day 60: March 31, 2018 (Bean-Intel)
+##### Project: Bean-Intel
+
+**Today's Progress**: Started working on a project to parse chat logs from Eve Online intel channels and return useful information.
+
+**Thoughts:**  It has been a while since I have done any real coding, most of the things I have been doing was opsdroid maintainer stuff. I've also came with an idea to create a program that could parse the intel channel logs from the game Eve Online and return useful information, I am currently working on it now and it's been fun to play with regex and have a project that could help other gamers.
