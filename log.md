@@ -464,3 +464,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Started working on a project to parse chat logs from Eve Online intel channels and return useful information.
 
 **Thoughts:**  It has been a while since I have done any real coding, most of the things I have been doing was opsdroid maintainer stuff. I've also came with an idea to create a program that could parse the intel channel logs from the game Eve Online and return useful information, I am currently working on it now and it's been fun to play with regex and have a project that could help other gamers.
+
+### Day 61: April 1, 2018 (Bean-Intel, Opsdroid)
+##### Project: Bean-Intel, Opsdroid
+
+**Today's Progress**: Worked on the project Bean-Intel - improved the function parse_intel and created a way to read the last line of the log file(which is updated with every new message in game). Helped someone getting started with opsdroid and attempted to fix an issue with the shell connector.
+
+**Thoughts:**  Reading from an ever changing txt file was a challenge but I was able to only keep the last line(the newest) and use it to parse intel, it worked better than expected. I was also able to read from a link and get intel from there - spent a lot of time tweaking things. It was also fun to try and fix an issue with the connector shell - windows cannot run the pwd module thats used to get the user name so had to use os.environ instead.
