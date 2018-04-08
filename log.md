@@ -471,3 +471,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Worked on the project Bean-Intel - improved the function parse_intel and created a way to read the last line of the log file(which is updated with every new message in game). Helped someone getting started with opsdroid and attempted to fix an issue with the shell connector.
 
 **Thoughts:**  Reading from an ever changing txt file was a challenge but I was able to only keep the last line(the newest) and use it to parse intel, it worked better than expected. I was also able to read from a link and get intel from there - spent a lot of time tweaking things. It was also fun to try and fix an issue with the connector shell - windows cannot run the pwd module thats used to get the user name so had to use os.environ instead.
+
+### Day 62: April 8, 2018 (Opsdroid, freecodecamp)
+##### Project: freecodecamp, Opsdroid
+
+**Today's Progress**: Updated my PR to fix a bug on a feature that I have implemented to opsdroid in the past. Worked on freecodecamp portfolio layout.
+
+**Thoughts:**  I've forgot to add days to this log so I started from now (although my github shows some progress). The layout is almost done and I'm quite happy with it at the moment.
