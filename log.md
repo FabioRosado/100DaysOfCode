@@ -478,3 +478,17 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Updated my PR to fix a bug on a feature that I have implemented to opsdroid in the past. Worked on freecodecamp portfolio layout.
 
 **Thoughts:**  I've forgot to add days to this log so I started from now (although my github shows some progress). The layout is almost done and I'm quite happy with it at the moment.
+
+### Day 63: April 9, 2018 (freecodecamp)
+##### Project: freecodecamp
+
+**Today's Progress**: Kept working on the freecodecamp portfolio, finished 99% of it.
+
+**Thoughts:**  I've used mostly bulma modules and glued them together, the layout looks neat though and Im enjoying this Bulma css.
+
+### Day 64: April 9, 2018 (freecodecamp, The Odin Project)
+##### Project: freecodecamp, The Odin Project
+
+**Today's Progress**: Finished the portfolio. Started the javascript course in freecodecamp and the first part of the odin project.
+
+**Thoughts:**  Today was fun did a lot of reading and didn't do much. This part of freecodecamp is quite easy since I have done the codecademy course on javascript, I have also noticed that the freecodecamp course seems to be a bit outdated, but its too early to say.
