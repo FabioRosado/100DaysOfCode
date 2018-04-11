@@ -486,9 +486,16 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 
 **Thoughts:**  I've used mostly bulma modules and glued them together, the layout looks neat though and Im enjoying this Bulma css.
 
-### Day 64: April 9, 2018 (freecodecamp, The Odin Project)
+### Day 64: April 10, 2018 (freecodecamp, The Odin Project)
 ##### Project: freecodecamp, The Odin Project
 
 **Today's Progress**: Finished the portfolio. Started the javascript course in freecodecamp and the first part of the odin project.
 
 **Thoughts:**  Today was fun did a lot of reading and didn't do much. This part of freecodecamp is quite easy since I have done the codecademy course on javascript, I have also noticed that the freecodecamp course seems to be a bit outdated, but its too early to say.
+
+### Day 65: April 12, 2018 (freecodecamp, The Odin Project, Mastering Python, Blog)
+##### Project: freecodecamp, The Odin Project, Mastering Python, Blog
+
+**Today's Progress**: Read about documentation libraries in Python, updated my blog with a post, did 10 exercises on javascript in freecodecamp, read about command line on the odin project.
+
+**Thoughts:**  The blog post was ready for ages but forgot to publish it. Didn't enjoy doing the javascript exercises in freecodecamp because they were too easy. I learned new flags for a few command line commands.
