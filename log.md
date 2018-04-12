@@ -473,29 +473,36 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Thoughts:**  Reading from an ever changing txt file was a challenge but I was able to only keep the last line(the newest) and use it to parse intel, it worked better than expected. I was also able to read from a link and get intel from there - spent a lot of time tweaking things. It was also fun to try and fix an issue with the connector shell - windows cannot run the pwd module thats used to get the user name so had to use os.environ instead.
 
 ### Day 62: April 8, 2018 (Opsdroid, freecodecamp)
-##### Project: freecodecamp, Opsdroid
+##### freecodecamp, Opsdroid
 
 **Today's Progress**: Updated my PR to fix a bug on a feature that I have implemented to opsdroid in the past. Worked on freecodecamp portfolio layout.
 
 **Thoughts:**  I've forgot to add days to this log so I started from now (although my github shows some progress). The layout is almost done and I'm quite happy with it at the moment.
 
 ### Day 63: April 9, 2018 (freecodecamp)
-##### Project: freecodecamp
+##### freecodecamp
 
 **Today's Progress**: Kept working on the freecodecamp portfolio, finished 99% of it.
 
 **Thoughts:**  I've used mostly bulma modules and glued them together, the layout looks neat though and Im enjoying this Bulma css.
 
 ### Day 64: April 10, 2018 (freecodecamp, The Odin Project)
-##### Project: freecodecamp, The Odin Project
+##### freecodecamp, The Odin Project
 
 **Today's Progress**: Finished the portfolio. Started the javascript course in freecodecamp and the first part of the odin project.
 
 **Thoughts:**  Today was fun did a lot of reading and didn't do much. This part of freecodecamp is quite easy since I have done the codecademy course on javascript, I have also noticed that the freecodecamp course seems to be a bit outdated, but its too early to say.
 
-### Day 65: April 12, 2018 (freecodecamp, The Odin Project, Mastering Python, Blog)
-##### Project: freecodecamp, The Odin Project, Mastering Python, Blog
+### Day 65: April 11, 2018 (freecodecamp, The Odin Project, Mastering Python, Blog)
+##### freecodecamp, The Odin Project, Mastering Python, Blog
 
 **Today's Progress**: Read about documentation libraries in Python, updated my blog with a post, did 10 exercises on javascript in freecodecamp, read about command line on the odin project.
 
 **Thoughts:**  The blog post was ready for ages but forgot to publish it. Didn't enjoy doing the javascript exercises in freecodecamp because they were too easy. I learned new flags for a few command line commands.
+
+### Day 66: April 12, 2018 (The Odin Project, Mastering Python)
+##### The Odin Project, Mastering Python
+
+**Today's Progress**: Watched a few videos about using the command line, read about it on viking code skill and read more on documentation on the book Mastering python.
+
+**Thoughts:**  Today I didn't have time to code so I decided to just watch the videos and do a bit of reading.
