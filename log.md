@@ -506,3 +506,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Watched a few videos about using the command line, read about it on viking code skill and read more on documentation on the book Mastering python.
 
 **Thoughts:**  Today I didn't have time to code so I decided to just watch the videos and do a bit of reading.
+
+### Day 67: April 14, 2018 (The Odin Project, Mastering Python)
+##### The Odin Project, Mastering Python
+
+**Today's Progress**: Read a bit more about documentation on the book Mastering Python. Read more about the command line, installed rails and created an heroku account.
+
+**Thoughts:**  Installed zsh on iterm and tried a few themes. Since I couldn't do much today due to work so instead I have created a schedule for tomorrow so I could thick those boxes out and do some productive work.
