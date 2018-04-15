@@ -513,3 +513,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Read a bit more about documentation on the book Mastering Python. Read more about the command line, installed rails and created an heroku account.
 
 **Thoughts:**  Installed zsh on iterm and tried a few themes. Since I couldn't do much today due to work so instead I have created a schedule for tomorrow so I could thick those boxes out and do some productive work.
+
+### Day 66: April 15, 2018 (Codecademy, the odin project)
+##### Codecademy, the odin project
+
+**Today's Progress**: Finished reading/watching the articles on the command line. Attempted to deploy one rails application through heroku, finished the codecademy course on git.
+
+**Thoughts:** Followed the instructions but the app keeps crashing on heroku, will give it a go with a python application and see how it will work.
