@@ -520,3 +520,14 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Finished reading/watching the articles on the command line. Attempted to deploy one rails application through heroku, finished the codecademy course on git.
 
 **Thoughts:** Followed the instructions but the app keeps crashing on heroku, will give it a go with a python application and see how it will work.
+
+
+### Day 67: April 17, 2018 (The odin project, freecodecamp, blog, heroku)
+##### The odin project, freecodecamp, blog, heroku
+
+**Today's Progress**: Did about 30 javascript exercises on freecodecamp. Finished all modules on the odin project related to html - just the project needs to be done. Updated the blog with a project (Tweetnalytics) and did the getting started with python in heroku.
+
+**Thoughts:** Understood why my yesterday's attempt at deploying an app failed - forgot to run the scale command. Practiced more on javascript some exercises had to make me thing but they remain pretty easy so far.  
+
+**Links:** [Android logo source](http://thecodeplayer.com/walkthrough/css3-android-logo), [CSS Android](Day-67/android-logo.html), [Freecodecamp - Golf](Day-67/freecodecamp%20-%20golf.html)
+
