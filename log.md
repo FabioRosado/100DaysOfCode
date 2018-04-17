@@ -522,7 +522,7 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Thoughts:** Followed the instructions but the app keeps crashing on heroku, will give it a go with a python application and see how it will work.
 
 
-### Day 67: April 17, 2018 (The odin project, freecodecamp, blog, heroku)
+### Day 67: April 16, 2018 (The odin project, freecodecamp, blog, heroku)
 ##### The odin project, freecodecamp, blog, heroku
 
 **Today's Progress**: Did about 30 javascript exercises on freecodecamp. Finished all modules on the odin project related to html - just the project needs to be done. Updated the blog with a project (Tweetnalytics) and did the getting started with python in heroku.
@@ -530,4 +530,13 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Thoughts:** Understood why my yesterday's attempt at deploying an app failed - forgot to run the scale command. Practiced more on javascript some exercises had to make me thing but they remain pretty easy so far.  
 
 **Links:** [Android logo source](http://thecodeplayer.com/walkthrough/css3-android-logo), [CSS Android](Day-67/android-logo.html), [Freecodecamp - Golf](Day-67/freecodecamp%20-%20golf.html)
+
+### Day 68: April 17, 2018 (The odin project, freecodecamp, Mastering Python, opsdroid)
+##### The odin project, freecodecamp, Mastering Python
+
+**Today's Progress**: Did a few exercises in freedocecamp. Finished the project from the odin project in which we needed to create a google landing page. Started reading the chapter on testing from the book: _Mastering Python_. Submitted a PR to opsdroid to start using appdirs.
+
+**Thoughts:** Creating the google landing page from scratch was quite fun and I have learned a lot. Started working on an issue on opsdroid that asked to use appdirs - a library that helps in determining which dirs to use depending on the platform used. Worked more on Javascript on freecodecamp.
+
+**Links:** [The Odin Project - Google layout](https://codepen.io/FabioRosado/full/bMbeMj/)
 
