@@ -532,11 +532,21 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Links:** [Android logo source](http://thecodeplayer.com/walkthrough/css3-android-logo), [CSS Android](Day-67/android-logo.html), [Freecodecamp - Golf](Day-67/freecodecamp%20-%20golf.html)
 
 ### Day 68: April 17, 2018 (The odin project, freecodecamp, Mastering Python, opsdroid)
-##### The odin project, freecodecamp, Mastering Python
+##### The odin project, freecodecamp, Mastering Python, opsdroid
 
 **Today's Progress**: Did a few exercises in freedocecamp. Finished the project from the odin project in which we needed to create a google landing page. Started reading the chapter on testing from the book: _Mastering Python_. Submitted a PR to opsdroid to start using appdirs.
 
 **Thoughts:** Creating the google landing page from scratch was quite fun and I have learned a lot. Started working on an issue on opsdroid that asked to use appdirs - a library that helps in determining which dirs to use depending on the platform used. Worked more on Javascript on freecodecamp.
 
 **Links:** [The Odin Project - Google layout](https://codepen.io/FabioRosado/full/bMbeMj/)
+
+### Day 69: April 18, 2018 (freecodecamp, opsdroid)
+##### freecodecamp, opsdroid
+
+**Today's Progress**:  Worked on opsdroid PR. Did some exercises on freecodecamp.
+
+**Thoughts:** I' sick so didn't do much today. I found an awesome list for podcasts and subscribed to a few podcasts today.
+
+**Links:** [Awesome List - podscasts](https://github.com/FabioRosado/awesome-podcasts)
+
 
