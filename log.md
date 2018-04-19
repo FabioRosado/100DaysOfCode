@@ -550,3 +550,9 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Links:** [Awesome List - podscasts](https://github.com/FabioRosado/awesome-podcasts)
 
 
+### Day 70: April 19, 2018 (opsdroid)
+##### opsdroid
+
+**Today's Progress**: Worked on my PR and read the documentation of the python library click. 
+
+**Thoughts:** Unfortunately I didn't progressed much on the PR today as my attempts at reading additional arguments from a command failed. 
