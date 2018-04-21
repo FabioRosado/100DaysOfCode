@@ -556,3 +556,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Worked on my PR and read the documentation of the python library click. 
 
 **Thoughts:** Unfortunately I didn't progressed much on the PR today as my attempts at reading additional arguments from a command failed. 
+
+### Day 71: April 21, 2018 (opsdroid, freecodecamp)
+##### opsdroid
+
+**Today's Progress**: Finished most of the PR for opsdroid, started working on tests. Did a few exercises in freecodecamp.
+
+**Thoughts:**  I was quite happy with my work on the PR so far, I have also written an introduction to vim for the documentation since we are choosing vim as a default editor if the user doesn't have one set.
