@@ -571,3 +571,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Tried a few approaches on creating a test for a function that does a lot of things, it didn't go well.
 
 **Thoughts:**  At the moment I am unsure how to test the function that I created that moves the config file to another location and does a few checks before deleting the file, the issue mostly is due to the fact that I use const variables for the path.
+
+### Day 73: April 23, 2018 (opsdroid)
+##### opsdroid
+
+**Today's Progress**: Updated documentation on opsdroid, updated a few tests and linting issues.
+
+**Thoughts:** Today I wasn't feeling very well so I didn't do much, will try to make up for it tomorrow.
