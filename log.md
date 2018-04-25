@@ -578,3 +578,18 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Updated documentation on opsdroid, updated a few tests and linting issues.
 
 **Thoughts:** Today I wasn't feeling very well so I didn't do much, will try to make up for it tomorrow.
+
+### Day 74: April 24, 2018 (opsdroid, blog)
+##### opsdroid, blog
+
+**Today's Progress**: Updated the documentation on vim and added it to my blog. Worked on the tests for the PR, did some refactoring on the function to accept path params and made a working test that keeps coverage at 100% and all new/previous tests pass.
+
+**Thoughts:** Followed the suggestion of [Jacob Tomlinson](https://github.com/jacobtomlinson) and published the vim documentation on my personal blog after adding a few more bits to it in order to not be an exact copy of the documentation.  All tests passed and I'm finally happy with my Pull Request.
+
+### Day 75: April 25, 2018 (opsdroid, Mastering Python, Freecodecamp)
+##### opsdroid, Mastering Python, Freecodecamp
+
+**Today's Progress**: Got the PR merged into opsdroid main brach. Read more about tests on the book Mastering Python and working on some javascript exercises at freecodecamp.
+
+**Thoughts:** I'm really enjoying reading the book Mastering Python, might order the actual book from amazon and keep it close by when I need to brush on my knowledge. 
+
