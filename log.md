@@ -593,3 +593,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 
 **Thoughts:** I'm really enjoying reading the book Mastering Python, might order the actual book from amazon and keep it close by when I need to brush on my knowledge. 
 
+
+### Day 76: April 26, 2018 (Freecodecamp)
+##### Freecodecamp
+
+**Today's Progress**: Did some exercises in freecodecamp. Caught up on some of my to read list and podcasts.
+
+**Thoughts:** Learned about objects and how thisCan[0].beA.Perfect[2].javascript.code Seems funny but that's probably because i come from Python.
