@@ -607,3 +607,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Did more exercises on freecodecamp.
 
 **Thoughts:** Almost finished the introduction to Javascript on freecodecamp.
+
+### Day 78: April 28, 2018 (Freecodecamp, The Odin Project)
+##### Freecodecamp, The Odin Project
+
+**Today's Progress**: Worked on freecodecamp and finished the basic javascript course. At the same time I did some javascript exercises on the Odin Project.
+
+**Thoughts:** Learning a new language is fun, I feel that I'm getting closer to that part in which I struggle to create something out of thin air before I become proficient on the language.
