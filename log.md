@@ -614,3 +614,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Worked on freecodecamp and finished the basic javascript course. At the same time I did some javascript exercises on the Odin Project.
 
 **Thoughts:** Learning a new language is fun, I feel that I'm getting closer to that part in which I struggle to create something out of thin air before I become proficient on the language.
+
+### Day 79: May 1, 2018 (Freecodecamp, The Odin Project, Podcasts, dev.to)
+##### Freecodecamp, The Odin Project, Podcasts, dev.to
+
+**Today's Progress**: Listened to a few podcasts today, did a few exercises in freecodecamp and will start the algorithms module, submitted my post about vim to dev.to.
+
+**Thoughts:** It was good to be able to catch up with all my saved podcasts episodes. I also caught up with my reading list. Learned a bit more about Javascript and now will be interesting to apply that knowledge in the algorithm module.
