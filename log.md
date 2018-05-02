@@ -621,3 +621,12 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**: Listened to a few podcasts today, did a few exercises in freecodecamp and will start the algorithms module, submitted my post about vim to dev.to.
 
 **Thoughts:** It was good to be able to catch up with all my saved podcasts episodes. I also caught up with my reading list. Learned a bit more about Javascript and now will be interesting to apply that knowledge in the algorithm module.
+
+### Day 80: May 2, 2018 (Freecodecamp, Writing an interpreter)
+##### Freecodecamp, Writing an interpreter
+
+**Today's Progress**: Did a few exercises in freecodecamp. Started working on building an interpreter by following a tutorial found online.
+
+**Thoughts:** The building an interpreter post uses a TDD approach to the tasks and its been fun and challenging coming up with solutions for the failing tests so far.
+
+**Links:** [A game of tokens: write an interpreter in Python with TDD](http://blog.thedigitalcatonline.com/blog/2017/05/09/a-game-of-tokens-write-an-interpreter-in-python-with-tdd-part-1/)
