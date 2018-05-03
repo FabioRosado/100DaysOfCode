@@ -630,3 +630,12 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Thoughts:** The building an interpreter post uses a TDD approach to the tasks and its been fun and challenging coming up with solutions for the failing tests so far.
 
 **Links:** [A game of tokens: write an interpreter in Python with TDD](http://blog.thedigitalcatonline.com/blog/2017/05/09/a-game-of-tokens-write-an-interpreter-in-python-with-tdd-part-1/)
+
+### Day 81: May 3, 2018 (Freecodecamp, personal site)
+##### Freecodecamp
+
+**Today's Progress**: Worked on a few exercises on the algorithm module in freecodecamp. Fixed the image sizes from the posts in the homepage of my site.
+
+**Thoughts:** Working on these exercises was quite fun since I used my knowledge of Python to try and solve these exercises.
+
+**Links:** [Freecodecamp algorithms](day-81/freecodecamp-algorithms.js)
