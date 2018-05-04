@@ -632,10 +632,19 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Links:** [A game of tokens: write an interpreter in Python with TDD](http://blog.thedigitalcatonline.com/blog/2017/05/09/a-game-of-tokens-write-an-interpreter-in-python-with-tdd-part-1/)
 
 ### Day 81: May 3, 2018 (Freecodecamp, personal site)
-##### Freecodecamp
+##### Freecodecamp, personal site
 
 **Today's Progress**: Worked on a few exercises on the algorithm module in freecodecamp. Fixed the image sizes from the posts in the homepage of my site.
 
 **Thoughts:** Working on these exercises was quite fun since I used my knowledge of Python to try and solve these exercises.
 
 **Links:** [Freecodecamp algorithms](day-81/freecodecamp-algorithms.js)
+
+### Day 82: May 4, 2018 (Freecodecamp, The Odin Project)
+##### Freecodecamp, The Odin Project
+
+**Today's Progress**: Made the quick and easy exercises on functions for the odin project. Worked on the exercises on freecodecamp to truncate a string.
+
+**Thoughts:** The truncating a string made me think a bit since some of the strings were failing until I figured up that the problem was a large number being used.
+
+**Links:** [Freecodecamp Truncate String](day-82/freecodecamp-truncate-string), [The Odin Project Functions](day-82/the-odin-project-functions.js)
