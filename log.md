@@ -648,3 +648,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Thoughts:** The truncating a string made me think a bit since some of the strings were failing until I figured up that the problem was a large number being used.
 
 **Links:** [Freecodecamp Truncate String](day-82/freecodecamp-truncate-string), [The Odin Project Functions](day-82/the-odin-project-functions.js)
+
+### Day 83: May 6, 2018 (Freecodecamp)
+##### Freecodecamp, The Odin Project
+
+**Today's Progress**: Did a few exercises on freecodecamp.
+
+**Thoughts:** Almost done with the algorithm module on freecodecamp, I'm a bit disappointed that the exercises didn't contain some of the known algorithms that should be translated into javascript.
