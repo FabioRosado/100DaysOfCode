@@ -650,8 +650,17 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Links:** [Freecodecamp Truncate String](day-82/freecodecamp-truncate-string), [The Odin Project Functions](day-82/the-odin-project-functions.js)
 
 ### Day 83: May 6, 2018 (Freecodecamp)
-##### Freecodecamp, The Odin Project
+##### Freecodecamp
 
 **Today's Progress**: Did a few exercises on freecodecamp.
 
 **Thoughts:** Almost done with the algorithm module on freecodecamp, I'm a bit disappointed that the exercises didn't contain some of the known algorithms that should be translated into javascript.
+
+### Day 83: May 6, 2018 (Freecodecamp, blog posts, podcasts)
+##### Freecodecamp, blog posts, podcasts
+
+**Today's Progress**: Almost finished the algorithm module on freecodecamp. Listened to some podcasts and read a few blog posts that were on my to read list.
+
+**Thoughts:** Only one exercises to go in order for me to finish the algorithm course, just need to implement a Caesar Cipher in javascript, since I have done it before in Python this should be fairly easy to implement.
+
+**Links:** [Freecodecamp algorithms](day-84/freecodecamp-algorithms-2.js)
