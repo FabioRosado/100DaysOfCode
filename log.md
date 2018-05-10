@@ -656,7 +656,7 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 
 **Thoughts:** Almost done with the algorithm module on freecodecamp, I'm a bit disappointed that the exercises didn't contain some of the known algorithms that should be translated into javascript.
 
-### Day 83: May 6, 2018 (Freecodecamp, blog posts, podcasts)
+### Day 84: May 7, 2018 (Freecodecamp, blog posts, podcasts)
 ##### Freecodecamp, blog posts, podcasts
 
 **Today's Progress**: Almost finished the algorithm module on freecodecamp. Listened to some podcasts and read a few blog posts that were on my to read list.
@@ -664,3 +664,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Thoughts:** Only one exercises to go in order for me to finish the algorithm course, just need to implement a Caesar Cipher in javascript, since I have done it before in Python this should be fairly easy to implement.
 
 **Links:** [Freecodecamp algorithms](day-84/freecodecamp-algorithms-2.js)
+
+### Day 85: May 10, 2018 (Freecodecamp, podcasts, cloudassessment, the odin project)
+##### Freecodecamp, podcasts, cloudassessment, the odin project
+
+**Today's Progress**:  Finished the Caesar Cipher challenge on freecodecamp, enrolled on the cloudassesment and started learning about aws. Started working on a project for the odin project in which we need to create a rock paper scissors game.
+
+**Thoughts:** The Caesar cipher took me a bit to think through as I wanted to use the unicode chars and the charCodeAt(), fromCharCode() functions to get the deciphered letter. It was fun playing around on cloudassesment and I have learned something completely new and different than anything that I have used so far - the aws console is a bit scary with so much stuff that I have no idea what it does - but the challenges been fun to do and I am learning as I go. Finally, I have almost completed a game of rock paper scissors built on the console for the odin project. Overall, I'm quite pleased with today. 
