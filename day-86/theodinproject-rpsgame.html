@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Console Rock Paper Scissors Game</title>
+</head>
+<body>
+    <script>
+        function computerPlay(){
+            let choice = Math.floor((Math.random()*3))
+            const plays = ['rock', 'paper', 'scissors'];
+            alert(`Computer chose: ${plays[choice]}`);
+            return plays[choice];
+        }
+        
+        function playerPlay(){
+            let play = prompt('Choose: rock, paper, scissors').toLowerCase();
+            switch(play) {
+                case 'rock':
+                case 'paper':
+                case 'scissors':
+                return play;
+
+                default:
+                return 'scissors';
+                break;
+            }
+        }
+
+        function playRound(playerSelection, computerSelection){
+            let victor;
+            if (playerSelection == computerSelection) {
+                victor = 'tie';
+            } else if (playerSelection == 'rock' && computerSelection == 'paper') {
+                victor = 'computer';
+            } else if (playerSelection == 'paper' && computerSelection == 'rock') {
+                victor = 'player';
+            } else if (playerSelection == 'paper' && computerSelection == 'scissors') {
+                victor = 'computer';
+            } else if (playerSelection == 'scissors' && computerSelection == 'paper') {
+                victor = 'player';
+            } else if (playerSelection == 'scissors' && computerSelection == 'rock') {
+                victor = 'computer';
+            } else {
+                victor = 'player';
+            }
+            alert(`${victor} wins this round.`)
+            return victor;
+        }
+
+        function game() {
+            let score = [0, 0];
+            for (var i = 0; i < 6; i++) {
+                let round = playRound(playerPlay(), computerPlay());
+
+                switch(round) {
+                    case 'player':
+                    score[0]++;
+                    break;
+                    case 'computer':
+                    score[1]++;
+                    break;
+
+                    default:
+                    break
+                }
+            }
+            console.log(score);
+            if (score[0] > score[1]) {
+                console.log('Player wins!');
+            } else if (score[0] < score[1]) {
+                console.log('Computer wins!')
+            } else {
+                console.log("It's a tie!")
+            }
+        }
+
+        game();
+    </script>
+
+</body>
+</html>

@@ -671,3 +671,12 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress**:  Finished the Caesar Cipher challenge on freecodecamp, enrolled on the cloudassesment and started learning about aws. Started working on a project for the odin project in which we need to create a rock paper scissors game.
 
 **Thoughts:** The Caesar cipher took me a bit to think through as I wanted to use the unicode chars and the charCodeAt(), fromCharCode() functions to get the deciphered letter. It was fun playing around on cloudassesment and I have learned something completely new and different than anything that I have used so far - the aws console is a bit scary with so much stuff that I have no idea what it does - but the challenges been fun to do and I am learning as I go. Finally, I have almost completed a game of rock paper scissors built on the console for the odin project. Overall, I'm quite pleased with today. 
+
+### Day 86: May 11, 2018 (cloudassessment, the odin project)
+##### cloudassessment, the odin project
+
+**Today's Progress**:  Finished the quest on cloud assesment - S3 Security Basics and did a few activities to help me on the next quest - VPC Network Security. I've finished the rock paper scissors game for the odin project.
+
+**Thoughts:** I tried to do the vpc network security quest but I'm a bit confused as to what I need to do so I might take the activities again and try to understand what the quest is asking of me. Building the rock, paper and scissors game was quite fun.
+
+**Links:** [Rock, Paper Scissors Game](day-86/theodinproject-rpsgame.html)
