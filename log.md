@@ -680,3 +680,13 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Thoughts:** I tried to do the vpc network security quest but I'm a bit confused as to what I need to do so I might take the activities again and try to understand what the quest is asking of me. Building the rock, paper and scissors game was quite fun.
 
 **Links:** [Rock, Paper Scissors Game](day-86/theodinproject-rpsgame.html)
+
+### Day 87: May 13, 2018 (React, The Odin Project, Talk Python to me - MongoDB, bean-intel)
+##### React, The Odin Project, Talk Python to me - MongoDB
+
+**Today's Progress:** Followed a tutorial to build a Game of Life in React. Read about keeping code clean for The Odin Project, started the freecourse on MongoDB from Talk Python to me and working on the bean-intel project.
+
+**Thoughts:** React got a bit confusing when I was following the tutorial, but I liked how you can mix html tags with javascript to get something done. I'm planning to create a database to keep track of used ships and systems visited for the bean-intel project.
+
+**Links:** [Game of Life in React](https://medium.freecodecamp.org/create-gameoflife-with-react-in-one-hour-8e686a410174)
+
