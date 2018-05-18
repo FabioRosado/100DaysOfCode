@@ -690,3 +690,23 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 
 **Links:** [Game of Life in React](https://medium.freecodecamp.org/create-gameoflife-with-react-in-one-hour-8e686a410174)
 
+### Day 87: May 13, 2018 (The Odin Project, exercism javascript)
+##### The Odin Project, exercism javascript
+
+**Today's Progress:** Read articles for The odin project, did a few exercises on exercism with javascript.
+
+**Thoughts:**  I'm feeling quite tired today so I didn't work as much as I should have, so I'm taking it easy and try to do some exercises on exercism.
+
+### Day 88: May 17, 2018 (PR: Pandas)
+##### PR: Pandas
+
+**Today's Progress:** Submitted my first PR to Pandas implementing support for sphinx spelling extension.
+
+**Thoughts:**  This was my first time working with Sphinx and on a project this big, it took me a while to wrap my head around things but I did some good progress.
+
+### Day 89: May 18, 2018 (PR: Pandas)
+##### PR: Pandas
+
+**Today's Progress:** Fixed typos and added words to the wordlist that the Sphinx extension uses to whitelist terms
+
+**Thoughts:**  The file for the whitelisted words is quite big at the moment and I have worked the whole day on fixing typos and adding terms. I've submitted all of them and now I'm waiting for a full review before marking the PR as ready.
