@@ -710,3 +710,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress:** Fixed typos and added words to the wordlist that the Sphinx extension uses to whitelist terms
 
 **Thoughts:**  The file for the whitelisted words is quite big at the moment and I have worked the whole day on fixing typos and adding terms. I've submitted all of them and now I'm waiting for a full review before marking the PR as ready.
+
+### Day 90: May 19, 2018 (Aurelia)
+##### Aurelia
+
+**Today's Progress:** Read a bit about aurelia and did the first two tutorials on how to use it.
+
+**Thoughts:**  One of the reasons why I decided to give aurelia a try was due to the fun example (creating a contact manager) and the cool layout of the website. It's a bit confusing to work with it at first but I can see how powerful the framework can be. I might take the contact manager example and expand its functionality. 
