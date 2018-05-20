@@ -717,3 +717,11 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress:** Read a bit about aurelia and did the first two tutorials on how to use it.
 
 **Thoughts:**  One of the reasons why I decided to give aurelia a try was due to the fun example (creating a contact manager) and the cool layout of the website. It's a bit confusing to work with it at first but I can see how powerful the framework can be. I might take the contact manager example and expand its functionality. 
+
+### Day 91: May 20, 2018 (Freecodecamp, The Odin Project)
+##### Freecodecamp, The Odin Project
+
+**Today's Progress:** Finished the module on JSON Apis and Ajax, started working on the first intermediate project - building a quote generator.
+
+**Thoughts:**  I'm a little bit confused on how to use the JSON API and other APIS with javascript, I'll need to study and read more about it. I got a fun idea to implement the quote generator, it will be more work than needed but will be worth it. On the Odin Project I read about arrays in Javascript.
+
