@@ -725,3 +725,9 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 
 **Thoughts:**  I'm a little bit confused on how to use the JSON API and other APIS with javascript, I'll need to study and read more about it. I got a fun idea to implement the quote generator, it will be more work than needed but will be worth it. On the Odin Project I read about arrays in Javascript.
 
+### Day 92: May 26, 2018 (Freecodecamp, Pandas, opsdroid, the odin project)
+##### Freecodecamp, Pandas, opsdroid, the odin project
+
+**Today's Progress:** Finished my prototype for the quote & weather project for the freecodecamp. Updated my PR for pandas and reviewed a PR in opsdroid.
+
+**Thoughts:**  I'm excited to start working on the freecodecamp project I really like how the prototype looks and this will be my first time trying to make something out of a design. Read about TDD in javascript on the odin project and on dev.to site.
