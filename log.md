@@ -731,3 +731,24 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress:** Finished my prototype for the quote & weather project for the freecodecamp. Updated my PR for pandas and reviewed a PR in opsdroid.
 
 **Thoughts:**  I'm excited to start working on the freecodecamp project I really like how the prototype looks and this will be my first time trying to make something out of a design. Read about TDD in javascript on the odin project and on dev.to site.
+
+### Day 92: June 2, 2018 (Freecodecamp, Pandas, opsdroid, Sphinx spelling)
+##### Freecodecamp, Pandas, opsdroid
+
+**Today's Progress:** Updated the PR to pandas, merged the PR to opsdroid, submitted a documention PR to the Sphinx extension spelling, worked on freecodecamp challenges.
+
+**Thoughts:**  Came back from holidays and it was good to go back to code. The freecodecamp got an update and they added quite a few new modules and challenges so I did some of them to try and catch up.
+
+### Day 94: June 3, 2018 (Freecodecamp)
+##### Freecodecamp
+
+**Today's Progress:**  Worked on more challenges on freecodecamp - learning a bit more about CSS. Started build my quote generator/weather station.
+
+**Thoughts:**  I had to go back to the css module to finish the challenges that have been added with the new update. I started working on the quote generator and weather station challenge, initially I used pure html & css to put things on the page but then realized that the design should be responsive, so I ended up adding bulma and had to fix most of the work done.
+
+### Day 95: June 4, 2018 (Freecodecamp, pandas)
+##### Freecodecamp, pandas
+
+**Today's Progress:**  Tried a few things on how to update the contributor list for the pandas PR. Worked on the weather/quote project.
+
+**Thoughts:**  Had some issues with css but managed to find the issue and fix it. Will start working on the javascript in order to get the weather working first - will need to get the data from the API and then change the values.
