@@ -732,7 +732,7 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 
 **Thoughts:**  I'm excited to start working on the freecodecamp project I really like how the prototype looks and this will be my first time trying to make something out of a design. Read about TDD in javascript on the odin project and on dev.to site.
 
-### Day 92: June 2, 2018 (Freecodecamp, Pandas, opsdroid, Sphinx spelling)
+### Day 93: June 2, 2018 (Freecodecamp, Pandas, opsdroid, Sphinx spelling)
 ##### Freecodecamp, Pandas, opsdroid
 
 **Today's Progress:** Updated the PR to pandas, merged the PR to opsdroid, submitted a documention PR to the Sphinx extension spelling, worked on freecodecamp challenges.
@@ -752,3 +752,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress:**  Tried a few things on how to update the contributor list for the pandas PR. Worked on the weather/quote project.
 
 **Thoughts:**  Had some issues with css but managed to find the issue and fix it. Will start working on the javascript in order to get the weather working first - will need to get the data from the API and then change the values.
+
+### Day 96: June 7, 2018 (Freecodecamp, pandas)
+##### Freecodecamp, pandas
+
+**Today's Progress:**  Got my PR merged into pandas. Will start working on the second part of it tomorrow, but started fixing some terms (mostly multi-index into MultiIndex). Worked on challenges on freecodecamp and read a bit on vue to try and create the quote/weather project.
+
+**Thoughts:**  I'm still working with pandas but was happy that the PR got merged. I have been trying to update opsdroid but the build kept failing on multiple occasions and I'm unsure why.
