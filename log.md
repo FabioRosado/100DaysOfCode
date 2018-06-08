@@ -759,3 +759,12 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Today's Progress:**  Got my PR merged into pandas. Will start working on the second part of it tomorrow, but started fixing some terms (mostly multi-index into MultiIndex). Worked on challenges on freecodecamp and read a bit on vue to try and create the quote/weather project.
 
 **Thoughts:**  I'm still working with pandas but was happy that the PR got merged. I have been trying to update opsdroid but the build kept failing on multiple occasions and I'm unsure why.
+
+### Day 97: June 8, 2018 (Freecodecamp, pandas, opsdroid)
+##### Freecodecamp, pandas
+
+**Today's Progress:**  Worked on some of the css challenges in freecodecamp and learned about transforming shapes. Submitted another PR fixing some terms and reverting some changes to pandas - it got merged. Updated documentation on opsdroid, merged dependency updates.
+
+**Thoughts:**  It was interesting creating new shapes with css, there is much to learn and a lot to practice. The PR was merged into pandas, it didn't contain any code but feels good to have it merged anyway, will work on the part 2 of the sphinx extension for pandas. Opsdroid build was failing so I had to restart some of the builds by hand. Eventually, got all the updates merged.
+
+**Links:** [Heart shape](day-97/heart.css) [Half moon](day-97/halfmoon.css)
