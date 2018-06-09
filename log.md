@@ -768,3 +768,10 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 **Thoughts:**  It was interesting creating new shapes with css, there is much to learn and a lot to practice. The PR was merged into pandas, it didn't contain any code but feels good to have it merged anyway, will work on the part 2 of the sphinx extension for pandas. Opsdroid build was failing so I had to restart some of the builds by hand. Eventually, got all the updates merged.
 
 **Links:** [Heart shape](day-97/heart.css) [Half moon](day-97/halfmoon.css)
+
+### Day 98: June 9, 2018 (Freecodecamp, pandas)
+##### Freecodecamp, pandas
+
+**Today's Progress:**  Worked on part 2 of the PR for pandas, had to work with a script that was already built but took me a while because I was kept getting an error when I tried to run the script. Then I took some time to think it throught before implementing the solution, in the end I managed to use a generator to generate a list of every single author name that made a commit to pandas and turn that list into the wordlist text file.
+
+**Thoughts:**  Working with the PR in pandas was fun but I am not sure if it was the best approach so I submitted the PR as a WIP and I am currently waiting on feedback. I also tried to fix a few things that the previou PR broke (basically someone discovered that you cant use the extension from conda). Finally, I did a few more CSS exercises on freecodecamp.
