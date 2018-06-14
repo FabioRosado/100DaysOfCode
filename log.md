@@ -774,4 +774,11 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 
 **Today's Progress:**  Worked on part 2 of the PR for pandas, had to work with a script that was already built but took me a while because I was kept getting an error when I tried to run the script. Then I took some time to think it throught before implementing the solution, in the end I managed to use a generator to generate a list of every single author name that made a commit to pandas and turn that list into the wordlist text file.
 
-**Thoughts:**  Working with the PR in pandas was fun but I am not sure if it was the best approach so I submitted the PR as a WIP and I am currently waiting on feedback. I also tried to fix a few things that the previou PR broke (basically someone discovered that you cant use the extension from conda). Finally, I did a few more CSS exercises on freecodecamp.
+**Thoughts:**  Working with the PR in pandas was fun but I am not sure if it was the best approach so I submitted the PR as a WIP and I am currently waiting on feedback. I also tried to fix a few things that the previous PR broke (basically someone discovered that you cant use the extension from conda). Finally, I did a few more CSS exercises on freecodecamp.
+
+### Day 99: June 9, 2018 (Freecodecamp, pandas)
+##### Freecodecamp, pandas
+
+**Today's Progress:** Worked on my PR to pandas, played around with author names and tried a few approaches, finally I have decided to use sets in order to keep a tidy name list. Did a few more challenges on freecodecamp, started the module on accessibility.
+
+**Thoughts:**  I'm not sure if the way I am updating the name list is the best way to do it, but it does the trick - it relies on for loops. I have tried to figure out how to add the spellcheck to ci but I can't figure out how to do it yet, will need help from pandas maintainers.
