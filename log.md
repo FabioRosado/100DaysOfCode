@@ -776,9 +776,16 @@ This uses an insane amount of print statements and if/else blocks. Did some read
 
 **Thoughts:**  Working with the PR in pandas was fun but I am not sure if it was the best approach so I submitted the PR as a WIP and I am currently waiting on feedback. I also tried to fix a few things that the previous PR broke (basically someone discovered that you cant use the extension from conda). Finally, I did a few more CSS exercises on freecodecamp.
 
-### Day 99: June 9, 2018 (Freecodecamp, pandas)
+### Day 99: June 14, 2018 (Freecodecamp, pandas)
 ##### Freecodecamp, pandas
 
 **Today's Progress:** Worked on my PR to pandas, played around with author names and tried a few approaches, finally I have decided to use sets in order to keep a tidy name list. Did a few more challenges on freecodecamp, started the module on accessibility.
 
 **Thoughts:**  I'm not sure if the way I am updating the name list is the best way to do it, but it does the trick - it relies on for loops. I have tried to figure out how to add the spellcheck to ci but I can't figure out how to do it yet, will need help from pandas maintainers.
+
+### Day 100: June 15, 2018 (Freecodecamp, opsdroid, vue)
+##### Freecodecamp, opsdroid, vue
+
+**Today's Progress:** Worked on more challenges on freecodecamp and almost finished the module on `Applied Accessibility`. Submitted a PR to opsdroid to add a link to the tutorial on vim and played around with vue.
+
+**Thoughts:**  I'm enjoying playing with Vue and decided to use it on the quote/weather project for freecodecamp, I've followed the tutorial on how to show items of a todo list and now I need to play around and figure it out how to make a real todo list with vue then put it on the generator/weather project.
