@@ -1,11 +1,11 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code Part II - Log
 
 ### Day 1: 31st August, 2018 (Freecodecamp challenges)
 ##### Accessibility and Responsive Web Design Principles
 
 **Today's Progress**: Review HTML 5 Accessibility and CSS3 principles
 
-**Thoughts:**  Was good to review some of old concepts and remember some that I have forgotten, I also understood what the `vw` means as size unit and also how to use it in css.
+**Thoughts:**  Was good to review some of the old concepts and remember some that I have forgotten, I also understood what the `vw` means as size unit and also how to use it in css.
 
 ----
 
@@ -30,8 +30,19 @@
 ### Day 4: 3rd September, 2018 (Vue.JS, freecodecamp)
 ##### Tutorial: Fetching Data from a Third-Party API with Vue.js and Axios, Freecodecamp: Flexbox exercises
 
-**Today's Progress**: Worked on the tutorial Fetching data from a thrid party api with vue and axios, also did a bunch of challenges on freecodecamp about flexbox. Saw some videos from the youtube channel [DesignCourse](https://www.youtube.com/user/DesignCourse).
+**Today's Progress**: Worked on the tutorial Fetching data from a third party API with vue and axios, also did a bunch of challenges on freecodecamp about flexbox. Saw some videos from the youtube channel [DesignCourse](https://www.youtube.com/user/DesignCourse).
 
-**Thoughts:**  Following the tutorial [Fetching Data from a Third-Party API with Vue.js and Axios](https://www.sitepoint.com/fetching-data-third-party-api-vue-axios/) was quite fun and learned a few things on how to use html and vue to dynamically change obtained results from an API. I have also thoroughtly enjoyed learning more about flexbox on freecodecamp and would like to play around with it in some little project, I am still unsure what do do with it though.
+**Thoughts:**  Following the tutorial [Fetching Data from a Third-Party API with Vue.js and Axios](https://www.sitepoint.com/fetching-data-third-party-api-vue-axios/) was quite fun and learned a few things on how to use HTML and vue to dynamically change obtained results from an API. I have also thoroughly enjoyed learning more about flexbox on freecodecamp and would like to play around with it in some little project, I am still unsure what do do with it though.
 
+**Links:** [Day 4 work](day-4/index.html)
 
+---
+
+### Day 5: 4th September, 2018 (Flexbox Froggy, Blog post, Wes Bos: Javascript30, Freecodecamp)
+##### Flexbox Froggy, Blog post, Wes Bos: Javascript30, Freecodecamp
+
+**Today's Progress**: Finished the challenges on flexbox both on freecodecamp and flexbox froggy. Wrote a blog post about Vue and geolocation, started watching the course from Wes Bos - Javascript30.
+
+**Thoughts:**  Writing the blog was fun and quite simple to do, but checking everything worked took me a while. I was happy with what I have learned about flexbox and I'm eager to start working on Javascript30.
+
+**Links:** [Flexbox Froggy](https://flexboxfroggy.com) | [Weather App: Using geolocation and Vue](https://dev.to/fabiorosado/weather-app-using-geolocation-and-vue-1jc7) | [Wes Bos: Javascript 30](https://javascript30.com)
