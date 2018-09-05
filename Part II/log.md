@@ -46,3 +46,14 @@
 **Thoughts:**  Writing the blog was fun and quite simple to do, but checking everything worked took me a while. I was happy with what I have learned about flexbox and I'm eager to start working on Javascript30.
 
 **Links:** [Flexbox Froggy](https://flexboxfroggy.com) | [Weather App: Using geolocation and Vue](https://dev.to/fabiorosado/weather-app-using-geolocation-and-vue-1jc7) | [Wes Bos: Javascript 30](https://javascript30.com)
+
+---
+
+### Day 6: 5th September, 2018 (Freecodecamp, Javascript30)
+##### Freecodecamp, Javascript30
+
+**Today's Progress**: Finished the module on CSS Grid, did day 1 and 2 of Javascript30.
+
+**Thoughts:**  CSS Grid was a bit confusing to understand and doesn't seem as straightforward as Flexbox, I will need to work more with it to understand it better. Working on day 1 of javascript 30 was fun, learned how to play a sound depending on keyboard presses.
+
+**Links:** [Day 5 files](day-5/)
