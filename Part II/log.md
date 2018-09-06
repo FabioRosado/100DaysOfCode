@@ -57,3 +57,14 @@
 **Thoughts:**  CSS Grid was a bit confusing to understand and doesn't seem as straightforward as Flexbox, I will need to work more with it to understand it better. Working on day 1 of javascript 30 was fun, learned how to play a sound depending on keyboard presses.
 
 **Links:** [Day 5 files](day-5/)
+
+---
+
+### Day 7: 6th September, 2018 (Freecodecamp, Javascript30)
+##### Freecodecamp, Javascript30
+
+**Today's Progress**: Completed the day 3 of Javascript30. Worked on some javascript basic challenges that were added before after I completed the module.
+
+**Thoughts:**  Tried to get mouse click to register on my console so I could add a trigger to update variables only when the mouse is clicked but it didn't work. On the good side I learned a bit more about CSS variables and how to use them.
+
+**Links:** [Day 5 files](day-7/)
