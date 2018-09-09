@@ -79,3 +79,22 @@
 **Thoughts:**  Spend a lot of time playing Destiny 2 on PS4 so today wasn't as productive as I wanted it to be. Reviewed some javascript concepts and listened to some podcasts as well.
 
 **Links:** [Day 8 files](day-8/)
+
+---
+
+### Day 9: 8th September, 2018 (Python Data Structures and Algorithms)
+##### Book: Python Data Structures and Algorithms
+
+**Today's Progress**: Was extremelty tired today so I wasn't able to spend time coding. To make up for it I read a bit of chapter 2 of the book Python Data Structures and Algorithms
+
+**Thoughts:**  Was a bit bummed that I wasn't able to code or follow Javascript 30 day 5.
+
+---
+
+### Day 10: 9th September, 2018 (Javascript 30, Opsdroid, Computing in Python IV: Objects & Algorithms)
+##### Javascript 30, Opsdroid, Coursera: Computing in Python IV: Objects & Algorithms
+
+
+**Today's Progress**: Finished day 5 of javascript 30. Accepted one PR to update docker and updated dependencies on opsdroid.
+
+**Thoughts:**  Day 5 was extremelly interesting, we created an animated gallery using CSS Flex and a bit of javascript. Started a new course on Python - Computing in Python IV: Objects & Algorithms
