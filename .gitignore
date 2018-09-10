@@ -104,7 +104,10 @@ ENV/
 # OS finder 
 .DS_Store
 
-#Pycharm 
+# Pycharm 
 .idea
+
+# Vscode
+.vscode
 
 config.py

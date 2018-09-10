@@ -98,3 +98,15 @@
 **Today's Progress**: Finished day 5 of javascript 30. Accepted one PR to update docker and updated dependencies on opsdroid.
 
 **Thoughts:**  Day 5 was extremelly interesting, we created an animated gallery using CSS Flex and a bit of javascript. Started a new course on Python - Computing in Python IV: Objects & Algorithms
+
+---
+
+### Day 11: 10th September, 2018 (String processing and Pattern Matching Algorithms, Podcasts, Freecodecamp)
+##### String processing and Pattern Matching Algorithms, Podcasts, Freecodecamp
+
+
+**Today's Progress**: Finished the survey challenge for freecodecamp. Read the chapter on Naive String Mach algorithm and spent some hours working the pseudocode to make a python implementation of this algorithm.
+
+**Thoughts:** I had to review a few concepts on python as I havent used it for a while now. Luckily it took me just a few minutes to get back up to speed with it. Was happy to implement a python version of the naive string matching algorithm on my own - but it could be improved further by using built in methods. The survey challenge was quite time consuming and spent a few hours working on it today. I also caught up with a few of my podcasts.
+
+**Links** [day-11](day-11)
