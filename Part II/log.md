@@ -110,3 +110,13 @@
 **Thoughts:** I had to review a few concepts on python as I havent used it for a while now. Luckily it took me just a few minutes to get back up to speed with it. Was happy to implement a python version of the naive string matching algorithm on my own - but it could be improved further by using built in methods. The survey challenge was quite time consuming and spent a few hours working on it today. I also caught up with a few of my podcasts.
 
 **Links** [day-11](day-11)
+
+---
+
+### Day 12: 11th September, 2018 (Project: Quote and Weather, Javascript30)
+##### Project: Quote and Weather, Javascript30
+
+
+**Today's Progress**: Fixed some issues with the project quote and weather and refactored the javascript. Finished day 6 of Javascript 30.
+
+**Thoughts:** I wasn't very happy to have the VueJs app full of methods that should be inside the components, today I moved everything that was related to the weather to the weather component. The day 6 of Javascript 30 was extremely fun because it used a lot of the concepts that we have been learning and new ones such as regex.
