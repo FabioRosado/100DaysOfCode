@@ -120,3 +120,23 @@
 **Today's Progress**: Fixed some issues with the project quote and weather and refactored the javascript. Finished day 6 of Javascript 30.
 
 **Thoughts:** I wasn't very happy to have the VueJs app full of methods that should be inside the components, today I moved everything that was related to the weather to the weather component. The day 6 of Javascript 30 was extremely fun because it used a lot of the concepts that we have been learning and new ones such as regex.
+
+---
+
+### Day 13: 12th September, 2018 (Quote and Weather)
+##### Quote and Weather
+
+
+**Today's Progress**: Refactored the bottom bar, fixed the spacing and changed the look of the windows.
+
+**Thoughts:** Didn't do much, but it was fun to play around with css and fix a few issues with the spacing of the columns. I have also improved the look of the windows.
+
+---
+
+### Day 14: 12th September, 2018 (opsdroid, implement a trie algorithm)
+##### opsdroid, trie algorithm
+
+
+**Today's Progress**: Raised an issue in opsdroid, submitted a PR in regards yaml.safe_load. Implemented a trie algorithm.
+
+**Thoughts:** Spent quite some time debugging and reading about the `yaml.safe_load`, unfortunately didn't find much that would help me fix the issue. Currently only the envvars are broken, but can't figure out why. The first exercise for the course on string processing and pattern matching was to implement a trie algorithm. I followed the pseudocode and was able to come up with a solution, although the grader is a bit confusing and I couldn't see if my solution was indeed correct.
