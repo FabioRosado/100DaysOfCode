@@ -133,10 +133,20 @@
 
 ---
 
-### Day 14: 12th September, 2018 (opsdroid, implement a trie algorithm)
+### Day 14: 13th September, 2018 (opsdroid, implement a trie algorithm)
 ##### opsdroid, trie algorithm
 
 
 **Today's Progress**: Raised an issue in opsdroid, submitted a PR in regards yaml.safe_load. Implemented a trie algorithm.
 
 **Thoughts:** Spent quite some time debugging and reading about the `yaml.safe_load`, unfortunately didn't find much that would help me fix the issue. Currently only the envvars are broken, but can't figure out why. The first exercise for the course on string processing and pattern matching was to implement a trie algorithm. I followed the pseudocode and was able to come up with a solution, although the grader is a bit confusing and I couldn't see if my solution was indeed correct.
+
+---
+
+### Day 15: 14th September, 2018 (Tutorial: Electron App)
+##### Tutorial: Electron App
+
+
+**Today's Progress**: Started working through a tutorial on how to build an app on electron from coursetro.
+
+**Thoughts:** I'm quite surprised by how easy it is to build the skelleton for the electron app - using html and css is amazing. Unfortunately, I couldn't go on with the tutorial. Will finish tomorrow though.
