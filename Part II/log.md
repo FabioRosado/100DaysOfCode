@@ -150,3 +150,13 @@
 **Today's Progress**: Started working through a tutorial on how to build an app on electron from coursetro.
 
 **Thoughts:** I'm quite surprised by how easy it is to build the skelleton for the electron app - using html and css is amazing. Unfortunately, I couldn't go on with the tutorial. Will finish tomorrow though.
+
+---
+
+### Day 16: 16th September, 2018 (Tutorial: Electron App)
+##### Tutorial: Electron App
+
+
+**Today's Progress**: Finished the tutorial on creating an electron app.
+
+**Thoughts:**  It was interesting to do the tutorial, I have a few ideas on how to expand the app and perhaps even change the way how it looks like. One thing that seems interesting is that you can mix electron with other frameworks like VueJS.
