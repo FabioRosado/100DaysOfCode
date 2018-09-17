@@ -160,3 +160,13 @@
 **Today's Progress**: Finished the tutorial on creating an electron app.
 
 **Thoughts:**  It was interesting to do the tutorial, I have a few ideas on how to expand the app and perhaps even change the way how it looks like. One thing that seems interesting is that you can mix electron with other frameworks like VueJS.
+
+---
+
+### Day 17: 17th September, 2018 (Electron App, Design: information icon)
+##### Electron App, Design: information icon
+
+
+**Today's Progress**: Created a repo for the electron app and did some changes on it - changed currency for GBP and added more cryptocurrencies. Built a backlog for things that I want to add/change within the app. Spend some time designing an information icon for the first time in svg.
+
+**Thoughts:**  I'm excited to play around with electron, did some reading and I created a list of things I want to change or add within the application. I also designed an icon for the `vividjs` library.
