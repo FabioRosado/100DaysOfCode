@@ -170,3 +170,13 @@
 **Today's Progress**: Created a repo for the electron app and did some changes on it - changed currency for GBP and added more cryptocurrencies. Built a backlog for things that I want to add/change within the app. Spend some time designing an information icon for the first time in svg.
 
 **Thoughts:**  I'm excited to play around with electron, did some reading and I created a list of things I want to change or add within the application. I also designed an icon for the `vividjs` library.
+
+---
+
+### Day 18: 18th September, 2018 (Electron App, Electron docs)
+##### Electron App, Electron docs
+
+
+**Today's Progress:** Refactored the function that gets the cryptocurrency data, created a new function that will change the icon depending on the value flunctuation of the currency.
+
+**Thoughts:** I'm excited to work on the app. I'm playing around with the idea of letting the user set its own settings in order to change what the app shows - things such as which cryptocurrencies are shown and which currency to see the price (Euro, Pound, Dollar, etc). Read more of the electron docs so I can work the app better.
