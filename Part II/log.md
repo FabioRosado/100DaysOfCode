@@ -180,3 +180,13 @@
 **Today's Progress:** Refactored the function that gets the cryptocurrency data, created a new function that will change the icon depending on the value flunctuation of the currency.
 
 **Thoughts:** I'm excited to work on the app. I'm playing around with the idea of letting the user set its own settings in order to change what the app shows - things such as which cryptocurrencies are shown and which currency to see the price (Euro, Pound, Dollar, etc). Read more of the electron docs so I can work the app better.
+
+---
+
+### Day 19: 19th September, 2018 (Podcasts, articles dev.to, crypto scope)
+##### Podcasts, articles dev.to
+
+
+**Today's Progress:** Kept up to date with podcasts and some of my to read articles in dev.to. Fixed issue with regex and flunctuation icon on electron app.
+
+**Thoughts:** Worked a very long day so didn't have much time to code. Still I managed to keep up to date with podcasts and to read articles. Added a span to the field where it gets the cryptocurrency value and the flunctuation icon in order to center both items. That broke the function that changes the icon - this was fixed today.
