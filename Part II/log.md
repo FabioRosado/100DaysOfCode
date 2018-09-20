@@ -190,3 +190,13 @@
 **Today's Progress:** Kept up to date with podcasts and some of my to read articles in dev.to. Fixed issue with regex and flunctuation icon on electron app.
 
 **Thoughts:** Worked a very long day so didn't have much time to code. Still I managed to keep up to date with podcasts and to read articles. Added a span to the field where it gets the cryptocurrency value and the flunctuation icon in order to center both items. That broke the function that changes the icon - this was fixed today.
+
+---
+
+### Day 20: 20th September, 2018 (Crypto Scope)
+##### Crypto Scope
+
+
+**Today's Progress:** Worked on the app - implemented a working settings using electron-store.
+
+**Thoughts:** Had to play around with javascript to get the checked values from a form and then place them on the settings.json file by using electron-store. It worked better than I expected, now I need to play around with the css to make the form look better.
