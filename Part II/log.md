@@ -200,3 +200,13 @@
 **Today's Progress:** Worked on the app - implemented a working settings using electron-store.
 
 **Thoughts:** Had to play around with javascript to get the checked values from a form and then place them on the settings.json file by using electron-store. It worked better than I expected, now I need to play around with the css to make the form look better.
+
+---
+
+### Day 21: 23th September, 2018 (Crypto Scope, opsdroid)
+##### Crypto Scope, opsdroid
+
+
+**Today's Progress:** Worked on the app - HTML will now be updated depending of the settings chosen by the user. Merged a PR in opsdroid.
+
+**Thoughts:** Spend most of the day working around the app and refactor the code in order to get the HTML to update depending on the user settings. At the moment the only thing now working is when the user selected more/less cryptocurrencies to watch. The notify button is also pretty broken at the moment.
