@@ -210,3 +210,23 @@
 **Today's Progress:** Worked on the app - HTML will now be updated depending of the settings chosen by the user. Merged a PR in opsdroid.
 
 **Thoughts:** Spend most of the day working around the app and refactor the code in order to get the HTML to update depending on the user settings. At the moment the only thing now working is when the user selected more/less cryptocurrencies to watch. The notify button is also pretty broken at the moment.
+
+---
+
+### Day 22: 24th September, 2018 (Crypto Scope)
+##### Crypto Scope
+
+
+**Today's Progress:** Added basic style for the settings window on the crypto scope app. Figured out how to show/hide a block of text.
+
+**Thoughts:** Showing/hidding text was quite easy and fun to figure out. Today I didn't do much, as I was tired.
+
+---
+
+### Day 23: 25th September, 2018 (Crypto Scope, podcasts)
+##### Crypto Scope, podcasts
+
+
+**Today's Progress:** Finalized the settings styling, moved the settings menu into the main menu.
+
+**Thoughts:** The settings windows looks quite good and I am quite happy with it. Played around with CSS in order to get everything working alright. I have also replaced EOS cryptocurrency with XRP - since I didn't have an icon for it, I also created an icon for XRP based off the real logo and the colours used on the site. Finally, I listened to some podcast episodes.
